@@ -3,4 +3,4 @@ name:
    first: Runpeng
    last: Chen
 email: rc3097@nyu.edu
-leaderboard: rc3097
+leaderboard: RunpengChen
