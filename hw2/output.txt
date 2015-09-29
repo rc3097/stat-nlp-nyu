@@ -1,4 +1,3 @@
-
 Error: A-200 Shampoo Concentrate guess=drug gold= confidence=0.9999987008160363
 Error: Acet-2 guess=drug gold= confidence=0.9997133878463037
 Error: Actifed Cold & Sinus Caplets 26 guess=drug gold= confidence=0.9999999993612079
