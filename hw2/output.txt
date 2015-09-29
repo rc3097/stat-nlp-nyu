@@ -1,3 +1,1822 @@
+
+Error: A-200 Shampoo Concentrate guess=drug gold= confidence=0.9999987008160363
+Error: Acet-2 guess=drug gold= confidence=0.9997133878463037
+Error: Actifed Cold & Sinus Caplets 26 guess=drug gold= confidence=0.9999999993612079
+Error: Actigall guess=drug gold= confidence=0.5429215298155046
+Error: Actisite guess=drug gold= confidence=0.9709536649990741
+Error: Activase guess=drug gold= confidence=0.999903251706826
+Error: Adriamycin RDF guess=drug gold= confidence=0.9999833591318845
+Error: Advil guess=drug gold= confidence=0.8015199883143754
+Error: AeroBid-M guess=drug gold= confidence=0.996089048452937
+Error: Aeroseb-HC guess=drug gold= confidence=0.9984835958428689
+Error: Ak-Taine guess=drug gold= confidence=0.9673282047131259
+Error: Akne-Mycin guess=drug gold= confidence=0.9999201232101507
+Error: Albert Docusate 44 guess=person gold= confidence=0.9355759680592802
+Error: Albert Glyburide guess=person gold= confidence=0.9971772313935443
+Error: Alesse guess=place gold= confidence=0.5959393544305374
+Error: Alkets 18 guess=drug gold= confidence=0.9895449522809655
+Error: Allay guess=place gold= confidence=0.4423951629894831
+Error: Allegra guess=movie gold= confidence=0.3645006907441892
+Error: Allerest Maximum Strength 15 guess=drug gold= confidence=0.9999951459761398
+Error: Alramucil Regular guess=drug gold= confidence=0.9999986603806958
+Error: Alti-Triazolam 18 guess=drug gold= confidence=0.9999993545963926
+Error: Aludrox guess=drug gold= confidence=0.9970748412899216
+Error: Amcort guess=drug gold= confidence=0.9803465363443171
+Error: Amgenal Cough guess=drug gold= confidence=0.9965974563898015
+Error: Amilon guess=drug gold= confidence=0.9639130584729801
+Error: AMMONIATED MERCURY guess=drug gold= confidence=0.9997399424349921
+Error: Anaprox 13 guess=drug gold= confidence=0.9999992591664304
+Error: Anbesol Regular Strength Liquid guess=drug gold= confidence=0.999999999979007
+Error: Ancotil guess=drug gold= confidence=0.9942275901582224
+Error: Andronate 100 guess=drug gold= confidence=0.9998834230115142
+Error: Antacid Liquid guess=drug gold= confidence=0.999999252558887
+Error: Antacid Liquid Double Strength guess=drug gold= confidence=0.9999998169583638
+Error: ANTIVENIN guess=drug gold= confidence=0.9943220023774663
+Error: APD guess=drug gold= confidence=0.8998818550085854
+Error: Aphrodyne guess=drug gold= confidence=0.6592482011056715
+Error: Aphthasol guess=drug gold= confidence=0.9969782906869243
+Error: Apo-Alpraz guess=drug gold= confidence=0.9999884325187827
+Error: Apo-Bisacodyl 26 guess=drug gold= confidence=0.9999999931988484
+Error: Apo-Cephalex 19 guess=drug gold= confidence=0.9999999914552689
+Error: Apo-Clonazepam guess=drug gold= confidence=0.9999938437896614
+Error: Apo-Dimenhydrinate guess=drug gold= confidence=0.9999997665647543
+Error: Apo-Dipyridamole SC guess=drug gold= confidence=0.9999014165404359
+Error: Apo-Gain guess=drug gold= confidence=0.9995161030142848
+Error: Apo-Indomethacin guess=drug gold= confidence=0.9999992298027482
+Error: Apo-Levocarb guess=drug gold= confidence=0.9999958793153771
+Error: Apo-Metformin guess=drug gold= confidence=0.9998138769322844
+Error: Apo-Terfenadine 15 guess=drug gold= confidence=0.9999996127778527
+Error: Apo-Thioridazine 11 guess=drug gold= confidence=0.9999999436619917
+Error: Aprodrine 28 guess=drug gold= confidence=0.999973762080264
+Error: Aquasol A guess=drug gold= confidence=0.9869953760530691
+Error: Aristocort D 18 guess=drug gold= confidence=0.9999666483360468
+Error: Arthrisin guess=drug gold= confidence=0.5423209728537332
+Error: Arthritis Pain Ascriptin guess=drug gold= confidence=0.9978602757262777
+Error: Arthritis Strength Bufferin guess=drug gold= confidence=0.84111472417787
+Error: Arthrotec 75 guess=drug gold= confidence=0.9791577940195376
+Error: Aspir-Low guess=drug gold= confidence=0.9470423362514024
+Error: Aspirin Plus Stomach Guard Extra Strength guess=drug gold= confidence=0.9999998766549899
+Error: Aspirin Regimen Bayer Regular Strength Caplets guess=drug gold= confidence=0.9999999999999858
+Error: Aspirtab guess=drug gold= confidence=0.8865020138484542
+Error: Astracaine 4% Forte guess=drug gold= confidence=0.9999997952600183
+Error: Atrohist Plus guess=drug gold= confidence=0.9999893222348417
+Error: Bain de Soleil All Day Sunfilter 31 guess=drug gold= confidence=0.9962277227305851
+Error: Bain de Soleil Long Lasting Sport Sunblock 31 guess=drug gold= confidence=0.9999999998051585
+Error: Bain de Soleil Mega Tan 26 guess=drug gold= confidence=0.8979967486271573
+Error: Bancap-HC guess=drug gold= confidence=0.9877353285525283
+Error: Banophen 10 guess=drug gold= confidence=0.9999994592876261
+Error: Barbita guess=drug gold= confidence=0.5902798270916328
+Error: Barriere-HC guess=place gold= confidence=0.997637508766086
+Error: BCNU guess=drug gold= confidence=0.687639740694461
+Error: Beben guess=movie gold= confidence=0.6609064899404925
+Error: Because guess=place gold= confidence=0.5971740882983496
+Error: Benadryl Allergy 10 guess=drug gold= confidence=0.9999999827018372
+Error: Benadryl Allergy/Cold 18 guess=drug gold= confidence=0.9995653736014068
+Error: Benylin 4 Flu 136 guess=drug gold= confidence=0.9999998622141877
+Error: Benzacot guess=drug gold= confidence=0.6210984865677256
+Error: Benzfetamine guess=drug gold= confidence=0.9999379021486159
+Error: Beta-HC guess=drug gold= confidence=0.9989673471439193
+Error: Betaloc Durules guess=drug gold= confidence=0.996955288741812
+Error: Betnesol guess=drug gold= confidence=0.8589181796558748
+Error: BIAVAX II guess=drug gold= confidence=0.8126835375838508
+Error: Bisacolax 26 guess=drug gold= confidence=0.9999759085857971
+Error: Blistex Medicated Lip Conditioner with Sunscreen 24 guess=drug gold= confidence=0.9999999983863859
+Error: Blocadren 14 guess=drug gold= confidence=0.9997464315345791
+Error: Bontril Slow-Release guess=drug gold= confidence=0.9999903300770402
+Error: Botox guess=drug gold= confidence=0.7229690821460316
+Error: Brethine guess=place gold= confidence=0.7412766644695915
+Error: Brevoxyl-4 Cleansing Lotion guess=drug gold= confidence=0.9999987700749952
+Error: Brevoxyl-4 Gel guess=drug gold= confidence=0.9999999964308692
+Error: Bromadrine PD guess=drug gold= confidence=0.9967851845503676
+Error: Bromfenex guess=drug gold= confidence=0.99988238900106
+Error: Bromo-Seltzer guess=drug gold= confidence=0.9900296988203503
+Error: Bronalide guess=drug gold= confidence=0.9810761036135682
+Error: Broncomar GG guess=drug gold= confidence=0.7601875175297734
+Error: Brotane DX Cough 22 guess=drug gold= confidence=0.99998182873794
+Error: Bucet guess=drug gold= confidence=0.8159034049226187
+Error: Bufferin Caplets guess=drug gold= confidence=0.9999961496124481
+Error: Buphenyl guess=drug gold= confidence=0.9826613879486296
+Error: Butibel guess=drug gold= confidence=0.6322222576592813
+Error: Cafertine guess=drug gold= confidence=0.993535988586693
+Error: Caffedrine Caplets guess=drug gold= confidence=0.999998265447896
+Error: Calamox guess=drug gold= confidence=0.9977196306284821
+Error: Calciday 667 guess=drug gold= confidence=0.9688506718925645
+Error: Calglycine 18 guess=drug gold= confidence=0.9999981614239202
+Error: Calmine guess=drug gold= confidence=0.9957583694778929
+Error: Calmylin #1 guess=drug gold= confidence=0.9992952024998302
+Error: Calmylin Original with Codeine 12 guess=drug gold= confidence=0.9999999725900043
+Error: Camptosar guess=movie gold= confidence=0.5911189761761647
+Error: Canesten 3-Day Therapy guess=drug gold= confidence=0.9986832992836359
+Error: Catrix Lip Saver 41 guess=drug gold= confidence=0.9995245214025816
+Error: Caverject guess=movie gold= confidence=0.6763120106373943
+Error: Cee-500 guess=drug gold= confidence=0.9891780978063761
+Error: Ceftin 18 guess=drug gold= confidence=0.999719599628062
+Error: Cefzil 13 guess=drug gold= confidence=0.9997023506052448
+Error: Celestoderm-V guess=drug gold= confidence=0.9955875961160157
+Error: Ceo-Two guess=drug gold= confidence=0.9662989785351143
+Error: Children's Formula Cough 109 guess=drug gold= confidence=0.9999999999960991
+Error: Chlor-Trimeton Allergy-D 12 Hour 15 guess=drug gold= confidence=0.9999999999309921
+Error: Chlor-Tripolon N.D. 21 guess=drug gold= confidence=0.9999824266309699
+Error: Chlorgest-HD 26 guess=drug gold= confidence=0.9999998114255924
+Error: Chloromag guess=drug gold= confidence=0.7172914802294229
+Error: Chlortox 13 guess=drug gold= confidence=0.9999978559872813
+Error: Chooz 18 guess=drug gold= confidence=0.7737570963791279
+Error: Cidomycin guess=drug gold= confidence=0.9998293177809401
+Error: Cillium guess=drug gold= confidence=0.7486479097028708
+Error: Citro-Mag guess=drug gold= confidence=0.9998353514186064
+Error: Citro-Mag 14 guess=drug gold= confidence=0.9999999448228978
+Error: Citrocarbonate guess=drug gold= confidence=0.9999670672954687
+Error: Clear by Design Medicated Cleansing Pads guess=movie gold= confidence=0.9627102581878978
+Error: Clearasil Double Textured Pads Regular Strength guess=drug gold= confidence=0.9999996813601487
+Error: Clearasil Maximum Strength Medicated Anti-Acne 10 Vanishing Cream guess=drug gold= confidence=0.9999999999999929
+Error: Clearasil Maximum Strength Medicated Anti-Acne 10 Vanishing Lotion guess=drug gold= confidence=0.9999999999999929
+Error: Cleocin T Topical Solution guess=drug gold= confidence=0.9999999902971624
+Error: Clinagen LA 40 guess=drug gold= confidence=0.9999594095805969
+Error: CMT guess=drug gold= confidence=0.8610079230820762
+Error: Co-codaprin guess=drug gold= confidence=0.9999930649600152
+Error: Co-Complex DM Caplets 124 guess=drug gold= confidence=1.0
+Error: Codehist DH 32 guess=drug gold= confidence=0.9971509886423244
+Error: Codimal DM 46 guess=drug gold= confidence=0.9999998348585558
+Error: Cogentin guess=drug gold= confidence=0.9839837109594616
+Error: Cold & Cough Medicine TheraFlu Maximum Strength Non-Drowsy Formula Flu124 guess=drug gold= confidence=1.0
+Error: Colestid guess=drug gold= confidence=0.5181224338623824
+Error: Colyte guess=drug gold= confidence=0.9691036779323746
+Error: Comtrex Allergy-Sinus Caplets 13 guess=drug gold= confidence=0.9999999999999325
+Error: Comtrex Daytime Caplets 124 guess=drug gold= confidence=0.9999999685197101
+Error: Concentrin 132 guess=drug gold= confidence=0.9999984183929309
+Error: Constulose 13 guess=drug gold= confidence=0.9880487364615423
+Error: Contac Cold/Flu Day Caplets 124 guess=drug gold= confidence=0.999999986586449
+Error: Coppertone Sport Ultra Sweatproof 41 guess=drug gold= confidence=0.9966762577081283
+Error: Correctol 26 guess=drug gold= confidence=0.9999993500117731
+Error: Cort-Dome guess=drug gold= confidence=0.9647398816165421
+Error: Cortastat guess=drug gold= confidence=0.9632941073640625
+Error: Cortisol guess=drug gold= confidence=0.9995468484012847
+Error: Cortone Acetate guess=drug gold= confidence=0.9999991642266572
+Error: CoSudafed 120 guess=drug gold= confidence=0.9998559379509834
+Error: Cutar Water Dispersible Emollient Tar guess=movie gold= confidence=0.9965401058502104
+Error: Cytovene guess=drug gold= confidence=0.9165911550757974
+Error: D-S-S 44 guess=drug gold= confidence=0.9999994285581407
+Error: D.O.S. Softgels 44 guess=drug gold= confidence=0.9999928895820174
+Error: Dalacin C Phosphate guess=drug gold= confidence=0.9999982492134706
+Error: Dalacin T Topical Solution guess=drug gold= confidence=0.9999999928115173
+Error: Dalmane guess=drug gold= confidence=0.4119765382298094
+Error: Danocrine guess=drug gold= confidence=0.9880164119353538
+Error: Dapacin Cold guess=drug gold= confidence=0.9986127221038971
+Error: Daraprim guess=drug gold= confidence=0.9497419250796348
+Error: DDAVP Nasal Spray guess=drug gold= confidence=0.9999994328267042
+Error: Deconhist guess=drug gold= confidence=0.8427139163372919
+Error: Demi-Regroton guess=drug gold= confidence=0.9981925249079954
+Error: Depacon guess=drug gold= confidence=0.9883185872615335
+Error: DermaZinc Cream guess=drug gold= confidence=0.9999904069582725
+Error: Dermoxyl 20 Gel guess=drug gold= confidence=0.9999999999991545
+Error: Desenex Antifungal Liquid guess=drug gold= confidence=0.999999999337895
+Error: Desenex Antifungal Penetrating Foam guess=drug gold= confidence=0.9999979703360672
+Error: Desenex Powder guess=drug gold= confidence=0.9999954772912477
+Error: Desferal guess=drug gold= confidence=0.9139950635236699
+Error: Desquam-E 10 Gel guess=drug gold= confidence=0.9999999998997602
+Error: Desquam-X 5 Gel guess=drug gold= confidence=0.9999999945060765
+Error: Dexafed Cough 126 guess=drug gold= confidence=0.9999999227510047
+Error: Dexamethasone Intensol guess=drug gold= confidence=0.9999977037749892
+Error: DHS Tar Shampoo guess=drug gold= confidence=0.999102366839583
+Error: Di-Sosul Forte 38 guess=drug gold= confidence=0.9999965868474022
+Error: DiabetiSource guess=drug gold= confidence=0.6426484772944893
+Error: Dialose 44 guess=drug gold= confidence=0.9999708105513997
+Error: Dialose Plus 42 guess=drug gold= confidence=0.9999998369645473
+Error: Diarrest guess=place gold= confidence=0.6055656198259893
+Error: Dilocaine guess=drug gold= confidence=0.999922334644605
+Error: Dimetane-DC Cough 20 guess=drug gold= confidence=0.999999999925965
+Error: Dimetapp Chewables guess=drug gold= confidence=0.9982886931358386
+Error: Dimetapp Cold & Fever Suspension guess=drug gold= confidence=0.8394348662310951
+Error: Dimetapp DM 21 guess=drug gold= confidence=0.9999998519512093
+Error: Diocto 44 guess=drug gold= confidence=0.9988717965476214
+Error: Dioeze 44 guess=drug gold= confidence=0.9944233556285799
+Error: Disobrom 19 guess=drug gold= confidence=0.9120169882164773
+Error: Doak Oil Forte Therapeutic Bath Treatment guess=drug gold= confidence=0.9999656027293415
+Error: Doak Oil Therapeutic Bath Treatment For All-Over Body Care guess=drug gold= confidence=0.9918497884894872
+Error: Dodd's Pills guess=movie gold= confidence=0.5309229070122098
+Error: Dolagesic guess=drug gold= confidence=0.9974398725316957
+Error: Dolgesic guess=drug gold= confidence=0.9973118330975899
+Error: Dorcol Children's Cough 132 guess=drug gold= confidence=0.9999997525731623
+Error: Dormarex 2 10 guess=drug gold= confidence=0.9999972220020763
+Error: Dosaflex 35 guess=drug gold= confidence=0.9999923550680323
+Error: Dostinex guess=drug gold= confidence=0.9998794893482384
+Error: Dristan Long Lasting Nasal Mist guess=drug gold= confidence=0.8662840017792212
+Error: Drixoral Nasal Decongestant guess=drug gold= confidence=0.99996483966341
+Error: DTIC-Dome guess=drug gold= confidence=0.9918086428342777
+Error: Duoplant Topical Solution guess=drug gold= confidence=0.9999962894268241
+Error: Duosol 44 guess=drug gold= confidence=0.9999993874903936
+Error: Dura-Vent 141 guess=drug gold= confidence=0.9999999639125121
+Error: Duralone-80 guess=drug gold= confidence=0.9999944889086283
+Error: Duration 12 Hour Nasal Spray guess=drug gold= confidence=0.9999999898628253
+Error: Dycill guess=drug gold= confidence=0.937295634764497
+Error: E-400 I.U. in a Water Soluble Base guess=movie gold= confidence=0.6052975796033757
+Error: Easprin guess=drug gold= confidence=0.9391960082904731
+Error: Ecostatin Vaginal Ovules guess=drug gold= confidence=0.9999123021409712
+Error: Ectosone Scalp Lotion guess=drug gold= confidence=0.9999937836154892
+Error: Ed A-Hist 10 guess=drug gold= confidence=0.9999896526484112
+Error: ED-SPAZ guess=drug gold= confidence=0.9991830168490001
+Error: Effer-K guess=drug gold= confidence=0.9837756745423504
+Error: Eflone guess=drug gold= confidence=0.9709086557078696
+Error: Empirin with Codeine No.3 guess=drug gold= confidence=0.9999866401484455
+Error: Enduronyl Forte guess=drug gold= confidence=0.999997030156407
+Error: Enfamil Human Milk Fortifier guess=drug gold= confidence=0.9986816591942492
+Error: Ensure Plus guess=drug gold= confidence=0.9999799929921637
+Error: Ensure Plus HN guess=drug gold= confidence=0.9999998862870669
+Error: Entex Liquid 140 guess=drug gold= confidence=0.9999999998832152
+Error: Entrophen 15 Maximum Strength Tablets guess=drug gold= confidence=0.9999999921038594
+Error: Epival guess=drug gold= confidence=0.9028330130566781
+Error: ERYC-250 guess=drug gold= confidence=0.999900926792805
+Error: Ethyl aminobenzoate guess=drug gold= confidence=0.9994293432032818
+Error: Etrafon-F guess=drug gold= confidence=0.9971495353789986
+Error: Eurax Lotion guess=drug gold= confidence=0.9999568400535926
+Error: Evac-U-Gen 33 guess=drug gold= confidence=0.9999998713501123
+Error: Ex-Lax Maximum Relief Formula 33 guess=drug gold= confidence=0.9999999999999929
+Error: Excedrin Migraine guess=drug gold= confidence=0.9999220446397815
+Error: Exgest LA 141 guess=drug gold= confidence=0.9999975260062058
+Error: EZE-DS guess=drug gold= confidence=0.9962181388448804
+Error: Famvir guess=movie gold= confidence=0.568579858414273
+Error: Fansidar guess=movie gold= confidence=0.6170854016496147
+Error: Felbatol guess=drug gold= confidence=0.6869425718778566
+Error: Feldene 16 guess=drug gold= confidence=0.9834758260220012
+Error: Femcet guess=drug gold= confidence=0.993358339001724
+Error: Ferospace guess=drug gold= confidence=0.9880931119964134
+Error: Fertinex guess=drug gold= confidence=0.9998439284797926
+Error: Fibercon Caplets guess=drug gold= confidence=0.9998397554645515
+Error: Flagyl guess=drug gold= confidence=0.968244269388887
+Error: Fleet Laxative 26 guess=drug gold= confidence=0.9999527825755107
+Error: Flonase guess=drug gold= confidence=0.9948352231216508
+Error: Florone guess=drug gold= confidence=0.9959802993775154
+Error: Flovent guess=drug gold= confidence=0.48686849825985856
+Error: Fluocin 10 guess=drug gold= confidence=0.9999999996666524
+Error: FluShield guess=place gold= confidence=0.9578659791383058
+Error: FML Liquifilm guess=drug gold= confidence=0.9997232219014518
+Error: Furamide guess=drug gold= confidence=0.9985053371981866
+Error: Gammar-P IV guess=drug gold= confidence=0.6274457492026028
+Error: Gas-X Extra Strength guess=drug gold= confidence=0.9998563882735587
+Error: Gee-Gee guess=place gold= confidence=0.43903175794053695
+Error: Gen-Allerate guess=drug gold= confidence=0.9995285291741447
+Error: Gen-Clonazepam guess=drug gold= confidence=0.9997580063189923
+Error: Gen-Cromoglycate guess=drug gold= confidence=0.9975908408971969
+Error: Genatuss DM 109 guess=drug gold= confidence=0.9999999998255866
+Error: Genoptic Liquifilm guess=drug gold= confidence=0.9999996516998595
+Error: Genora 0.5/35 guess=drug gold= confidence=0.9999568274807478
+Error: Genpril Caplets guess=drug gold= confidence=0.9999953272069231
+Error: Gentle Laxative 26 guess=drug gold= confidence=0.9996987718775704
+Error: Glaucon guess=place gold= confidence=0.7430414701254736
+Error: Glucotrol guess=drug gold= confidence=0.9999808860232139
+Error: Glycon guess=drug gold= confidence=0.9831914627646103
+Error: Glydeine Cough 106 guess=drug gold= confidence=0.9999859441681425
+Error: Gravol I/V guess=drug gold= confidence=0.9997176764896238
+Error: Guaifed 142 guess=drug gold= confidence=0.999932958698901
+Error: Guaifenex PPA 75 141 guess=drug gold= confidence=0.9999997848402717
+Error: Gyne-Lotrimin guess=drug gold= confidence=0.9999568736771718
+Error: GyneCure Vaginal Ovules Tandempak guess=drug gold= confidence=0.6355778224265051
+Error: Gynol II Extra Strength Contraceptive Jelly guess=drug gold= confidence=0.9999999542897281
+Error: Halog-E 13 guess=drug gold= confidence=0.9999853721819172
+Error: Halotussin-DM 109 guess=drug gold= confidence=0.999999999741501
+Error: Haltran guess=drug gold= confidence=0.9566524277594829
+Error: Hawaiian Tropic Land Sport 33 guess=drug gold= confidence=0.9070481952376597
+Error: Hawaiian Tropic Sport Sunblock 28 29 guess=drug gold= confidence=0.9999999989090718
+Error: Headache Tablet guess=movie gold= confidence=0.9532646781801999
+Error: Healthprin Adult Low Strength guess=drug gold= confidence=0.9999696309278276
+Error: Hemocyte guess=drug gold= confidence=0.9585802337548497
+Error: Hexadrol guess=drug gold= confidence=0.9993057344545337
+Error: Hi-Cor 1.0 guess=drug gold= confidence=0.9980089885104944
+Error: Hista-Vadrin 11 guess=drug gold= confidence=0.9999999636234846
+Error: Humate-P guess=drug gold= confidence=0.9879482289389067
+Error: Humatrope guess=drug gold= confidence=0.8671937228492047
+Error: Humulin R guess=drug gold= confidence=0.9998494077922013
+Error: Humulin-N guess=drug gold= confidence=0.9999293708566079
+Error: Hydergine LC guess=drug gold= confidence=0.9875214565545054
+Error: Hydro-chlor guess=drug gold= confidence=0.9999643226997277
+Error: Hydrocodone with APAP guess=drug gold= confidence=0.9999999781778863
+Error: Hydromox guess=drug gold= confidence=0.9996915121796605
+Error: Hydropres guess=drug gold= confidence=0.9991272965269321
+Error: Hyzine-50 12 guess=drug gold= confidence=0.9999998280562435
+Error: Ibu-200 guess=drug gold= confidence=0.9917110621338353
+Error: Idamycin guess=drug gold= confidence=0.9984015803163471
+Error: IGIV guess=drug gold= confidence=0.7003382535539712
+Error: Inapsine guess=drug gold= confidence=0.9791594138272867
+Error: Indocin SR guess=drug gold= confidence=0.9999960489202595
+Error: Introlite guess=drug gold= confidence=0.7715745774230739
+Error: Intron A guess=movie gold= confidence=0.9513267049720527
+Error: Ipol guess=drug gold= confidence=0.6849426691165738
+Error: Isobutyl guess=drug gold= confidence=0.9921511390698379
+Error: Isocaine guess=drug gold= confidence=0.9998800838933856
+Error: Isocaine 2% guess=drug gold= confidence=0.9999772993326131
+Error: Isocal guess=drug gold= confidence=0.9989704971773986
+Error: Isopap guess=drug gold= confidence=0.9961569209021446
+Error: K+ Care ET guess=company gold= confidence=0.8922412494908829
+Error: Kadian guess=movie gold= confidence=0.8496804946215256
+Error: Kato guess=movie gold= confidence=0.36080812818636804
+Error: Kefzol guess=drug gold= confidence=0.9756849846435833
+Error: Kenalog-10 guess=drug gold= confidence=0.9995320004190505
+Error: Key-Pred SP guess=drug gold= confidence=0.9976472128236047
+Error: Klean-Prep guess=drug gold= confidence=0.9806287053840268
+Error: Klotrix guess=drug gold= confidence=0.9972505892684391
+Error: Kwelcof Liquid 112 guess=drug gold= confidence=0.9999999514792263
+Error: L-Caine guess=drug gold= confidence=0.9425239990747989
+Error: L-PAM guess=drug gold= confidence=0.9952997642234801
+Error: Lacril guess=drug gold= confidence=0.7561225970713055
+Error: Lacrisert guess=person gold= confidence=0.6137846534903546
+Error: LAM guess=drug gold= confidence=0.8181432115966515
+Error: Lanophyllin guess=drug gold= confidence=0.9578122274381421
+Error: Lanoxin guess=drug gold= confidence=0.9985675006095988
+Error: Largactil Liquid guess=drug gold= confidence=0.9999999021769804
+Error: Levbid guess=drug gold= confidence=0.9382263409206323
+Error: Levsinex Timecaps guess=drug gold= confidence=0.9999981164867108
+Error: Lidoxide guess=drug gold= confidence=0.9963325463298192
+Error: Lioresal Intrathecal guess=drug gold= confidence=0.5085136196628259
+Error: Liquaemin guess=drug gold= confidence=0.9891717476003585
+Error: Liqui-Char guess=drug gold= confidence=0.9755543485178327
+Error: Liquid-Cal guess=drug gold= confidence=0.9998230379197334
+Error: Lithotabs guess=drug gold= confidence=0.987186440122764
+Error: Lodine guess=drug gold= confidence=0.9671106827414682
+Error: Lorcet-HD guess=drug gold= confidence=0.9984929453911451
+Error: Lotrimin AF Cream guess=drug gold= confidence=0.9999996909780771
+Error: Lovenox guess=drug gold= confidence=0.6004087800527993
+Error: Lowsium Plus 24 guess=drug gold= confidence=0.9999994894922277
+Error: Lufyllin guess=drug gold= confidence=0.7734559352133208
+Error: Luminal guess=drug gold= confidence=0.8886947588094632
+Error: Lumitene guess=drug gold= confidence=0.855444731477472
+Error: Lupron guess=drug gold= confidence=0.9926140841698432
+Error: Lyme disease vaccine guess=drug gold= confidence=0.9437527009428716
+Error: Macrobid guess=drug gold= confidence=0.7620182770939388
+Error: Maltsupex guess=drug gold= confidence=0.3823949441006853
+Error: Marinol guess=drug gold= confidence=0.8873142018566197
+Error: Mavik 12 guess=drug gold= confidence=0.8960944072664018
+Error: Maxeran guess=drug gold= confidence=0.9220183015981224
+Error: Maximum Strength Gas Relief guess=drug gold= confidence=0.9999593423940625
+Error: Maximum Strength Mylanta Gas Relief guess=drug gold= confidence=0.9999746729459262
+Error: Maximum Strength SnapBack Stimulant Powders guess=drug gold= confidence=0.9998059100359098
+Error: Medrol guess=drug gold= confidence=0.9960752524584304
+Error: Megral guess=drug gold= confidence=0.920614739552568
+Error: Menaval-20 guess=drug gold= confidence=0.9958642792958132
+Error: Meridia guess=drug gold= confidence=0.5226531919129824
+Error: Merrem I.V. guess=drug gold= confidence=0.9233419869427458
+Error: Meruvax II guess=drug gold= confidence=0.6884569516915872
+Error: Mestinon guess=drug gold= confidence=0.9034289885878961
+Error: Methacort 80 guess=drug gold= confidence=0.9959313660605336
+Error: METHYPRYLON guess=drug gold= confidence=0.9980498563381884
+Error: Midahist DH 32 guess=drug gold= confidence=0.9991422795329554
+Error: Miltown guess=place gold= confidence=0.9808997276902652
+Error: Minims Phenylephrine guess=drug gold= confidence=0.9999202921443506
+Error: Minipress guess=drug gold= confidence=0.6549471774273021
+Error: Mithracin guess=drug gold= confidence=0.9961645810116
+Error: Moban guess=drug gold= confidence=0.5729931606131043
+Error: Modane Bulk guess=drug gold= confidence=0.758187785436359
+Error: Modecate guess=drug gold= confidence=0.9970401881889074
+Error: Mogadon 13 guess=drug gold= confidence=0.9972722396960164
+Error: Monistat 3 guess=drug gold= confidence=0.9999113871772378
+Error: Monistat 3 Dual-Pak guess=drug gold= confidence=0.9999902246282867
+Error: Monopril guess=drug gold= confidence=0.9363351013748695
+Error: Myciguent guess=drug gold= confidence=0.5050413073026202
+Error: MyCort guess=drug gold= confidence=0.9070139521834275
+Error: Mydriacyl guess=drug gold= confidence=0.997859467470273
+Error: Mygel II guess=drug gold= confidence=0.8020013342490976
+Error: Mylanta Gas guess=drug gold= confidence=0.7030667497132674
+Error: Mylanta Sugar Free Natural Fiber Supplement guess=drug gold= confidence=0.9999330090705429
+Error: Myolin guess=drug gold= confidence=0.9043190946089215
+Error: Myotrol guess=drug gold= confidence=0.9961867231563671
+Error: N-IPV guess=drug gold= confidence=0.9889231310044294
+Error: N.E.E. 1/50 guess=drug gold= confidence=0.9999736068972171
+Error: Nadostine guess=drug gold= confidence=0.9764214424511204
+Error: Naftin guess=drug gold= confidence=0.9322959925249976
+Error: Nalda-Relief Pediatric Drops 14 guess=drug gold= confidence=0.9999999999991509
+Error: Naldecon Pediatric Drops 14 guess=drug gold= confidence=0.9999999999319726
+Error: Nalex 142 guess=drug gold= confidence=0.9999999672856396
+Error: Nalfed-PD guess=drug gold= confidence=0.9999791014284067
+Error: Naprosyn-E 13 guess=drug gold= confidence=0.9999991396863172
+Error: Nasatab LA 142 guess=drug gold= confidence=0.9999998305944048
+Error: Necon 1/35 guess=drug gold= confidence=0.9999129458073276
+Error: Nelova 1/35E guess=drug gold= confidence=0.9999164404545046
+Error: Neo-Calglucon guess=drug gold= confidence=0.9999864364204367
+Error: Neo-Fer guess=drug gold= confidence=0.994819312113156
+Error: Neo-Synephrine guess=drug gold= confidence=0.9999954165217974
+Error: Neo-Synephrine Nasal Jelly guess=drug gold= confidence=0.9999884574389568
+Error: Neoral guess=drug gold= confidence=0.8857179508802371
+Error: Neosporin Ophthalmic Ointment guess=drug gold= confidence=0.9999999926847174
+Error: Neotal guess=drug gold= confidence=0.8626510219795807
+Error: Nestrex guess=drug gold= confidence=0.984404450775705
+Error: Neumega guess=place gold= confidence=0.9343279258286316
+Error: Neuroforte-R guess=place gold= confidence=0.8476933467745379
+Error: Neutrogena Deep Glow 32 guess=drug gold= confidence=0.9984003681742134
+Error: Nia-Bid guess=drug gold= confidence=0.8381752491672775
+Error: Niacels guess=drug gold= confidence=0.6868085596045023
+Error: Night-Time Effervescent Cold 17 guess=drug gold= confidence=0.9978826525942963
+Error: Nilstat guess=drug gold= confidence=0.8099065333454774
+Error: Nizoral Shampoo guess=drug gold= confidence=0.9998123297238743
+Error: Nolvadex guess=drug gold= confidence=0.997055702781345
+Error: Norditropin guess=drug gold= confidence=0.9913348504331769
+Error: Norethin 1/50M guess=drug gold= confidence=0.9999878229175551
+Error: Norfranil guess=drug gold= confidence=0.9105122486961144
+Error: Norgesic Forte guess=drug gold= confidence=0.9999899922114689
+Error: Norinyl 1+50 guess=drug gold= confidence=0.9999871105325265
+Error: Norphadrine guess=drug gold= confidence=0.9963886350449296
+Error: Nostril Spray Pump Mild guess=drug gold= confidence=0.9999977230217361
+Error: Novahistex DH Expectorant 128 guess=drug gold= confidence=0.9999999994381845
+Error: Novahistine DM w/ Decongestant 121 guess=drug gold= confidence=0.9999999999770779
+Error: Novo-AZT guess=drug gold= confidence=0.9999959710513694
+Error: Novo-Digoxin guess=drug gold= confidence=0.9999994936463391
+Error: Novo-Dipiradol guess=drug gold= confidence=0.9999997962900776
+Error: Novo-Pirocam 16 guess=drug gold= confidence=0.9999999469364177
+Error: Novo-Tripramine guess=drug gold= confidence=0.999999999826894
+Error: Novo-Veramil guess=drug gold= confidence=0.9999989689362523
+Error: Novolin ge 30/70 10 guess=drug gold= confidence=0.9999999968394562
+Error: Novolin ge 30/70 Penfill 10 guess=drug gold= confidence=0.9999999939850746
+Error: Novolin ge Lente guess=drug gold= confidence=0.9997519287247281
+Error: Novotriptyn guess=drug gold= confidence=0.9993671020310848
+Error: Novoxapam 14 guess=drug gold= confidence=0.9999999636755248
+Error: NPH Iletin II guess=drug gold= confidence=0.9998463800654084
+Error: Nu-Ampi guess=drug gold= confidence=0.9856560416475244
+Error: Nu-Cephalex 19 guess=drug gold= confidence=0.9999996969308176
+Error: Nu-Cimet guess=drug gold= confidence=0.9996255083370584
+Error: Nu-Diltiaz guess=drug gold= confidence=0.9962608427975075
+Error: Nu-Loraz 12 guess=drug gold= confidence=0.9999787072500923
+Error: Nu-Naprox 13 guess=drug gold= confidence=0.9999999246480507
+Error: Nu-Nifed guess=drug gold= confidence=0.9896845475096995
+Error: Nucochem Pediatric Expectorant 131 guess=drug gold= confidence=0.9999999926420529
+Error: Nupercainal Cream guess=drug gold= confidence=0.9997050052412403
+Error: Nupercainal Ointment guess=drug gold= confidence=0.9999359163128254
+Error: Nystop guess=drug gold= confidence=0.7230176379060144
+Error: Ocu-Sul-30 guess=drug gold= confidence=0.9999960418798161
+Error: Ocu-Tropine guess=drug gold= confidence=0.9999603579043769
+Error: Ocusert Pilo-40 guess=drug gold= confidence=0.9996908500455516
+Error: Ocusporin guess=drug gold= confidence=0.8547049982877758
+Error: OFF! Skintastic For Kids guess=drug gold= confidence=0.9999889538924865
+Error: Ogen 1.25 guess=drug gold= confidence=0.9999114937651774
+Error: Ophtho-Dipivefrin guess=drug gold= confidence=0.9999989531822412
+Error: OptiPranolol guess=drug gold= confidence=0.9999024978426332
+Error: Orajel Maximum Strength guess=drug gold= confidence=0.9961612990852516
+Error: Oralone guess=drug gold= confidence=0.999138594640336
+Error: Orange Flavor Metamucil Smooth Sugar-Free guess=drug gold= confidence=0.9999996694066424
+Error: Orbenin guess=drug gold= confidence=0.8036892970295848
+Error: Oreticyl guess=drug gold= confidence=0.9974630744025128
+Error: Orfro guess=drug gold= confidence=0.5272701243952878
+Error: Ornade Expectorant 95 guess=drug gold= confidence=0.9877194688362315
+Error: Ornex No Drowsiness Caplets guess=drug gold= confidence=0.9999948838546733
+Error: Orudis-E guess=drug gold= confidence=0.9812439905794137
+Error: Os-Cal guess=drug gold= confidence=0.9801346979646555
+Error: Os-Cal 500 Chewable guess=drug gold= confidence=0.9999967332005821
+Error: Otic-Care guess=drug gold= confidence=0.9979083696756667
+Error: Otocidin guess=drug gold= confidence=0.9993690625118109
+Error: Otocort guess=drug gold= confidence=0.9893545198122543
+Error: Otrivin Measured-Dose Pump with Moisturizers guess=drug gold= confidence=0.9976509010302992
+Error: Otrivin Nasal Drops guess=drug gold= confidence=0.9999997016429082
+Error: Oxy Clean Extra Strength Medicated Pads guess=drug gold= confidence=0.9999375863508144
+Error: Oxy Night Watch Night Time Acne Medication Extra Strength Lotion guess=drug gold= confidence=0.9996483505788162
+Error: Oxycodone with APAP guess=drug gold= confidence=0.9999999908932296
+Error: OxyContin 12 guess=drug gold= confidence=0.9999997712748949
+Error: Oxyderm 20 Lotion guess=drug gold= confidence=0.9999999989372661
+Error: Palafer guess=drug gold= confidence=0.9402028219762716
+Error: Paludrine guess=drug gold= confidence=0.9791383748994246
+Error: Pavarine guess=drug gold= confidence=0.9823260172163709
+Error: Pediacof Cough 69 guess=drug gold= confidence=0.9996438549624439
+Error: Pedialyte Freezer Pops guess=movie gold= confidence=0.71589911230884
+Error: Pedvaxhib guess=drug gold= confidence=0.9585566511231988
+Error: Penthrane guess=drug gold= confidence=0.8987333315570345
+Error: Pepcid I.V. guess=drug gold= confidence=0.9999930893385196
+Error: Peptavlon guess=drug gold= confidence=0.9898736221338246
+Error: Pepto-Bismol guess=drug gold= confidence=0.9999217259844765
+Error: Peptol guess=drug gold= confidence=0.9994981379631123
+Error: Persantine guess=drug gold= confidence=0.9141387692274701
+Error: Pertussin CS Children's Strength guess=drug gold= confidence=0.9999983970964305
+Error: Phenazine 25 guess=drug gold= confidence=0.9999985055967671
+Error: Phentercot guess=drug gold= confidence=0.9475846357883814
+Error: Phillips' Chewable 26 guess=drug gold= confidence=0.9999977418438674
+Error: Phrenilin guess=drug gold= confidence=0.7623353030752844
+Error: Pilopine HS guess=drug gold= confidence=0.9977463586148358
+Error: Piloptic-3 guess=drug gold= confidence=0.9999845128752898
+Error: Piloptic-4 guess=drug gold= confidence=0.9999910377156044
+Error: PMS Benztropine guess=drug gold= confidence=0.999970415822635
+Error: PMS-Acetaminophen with Codeine guess=drug gold= confidence=0.9999999999970157
+Error: PMS-ASA guess=drug gold= confidence=0.9998642060769064
+Error: PMS-Dimenhydrinate guess=drug gold= confidence=0.9999991657015509
+Error: PMS-Docusate Sodium 44 guess=drug gold= confidence=0.9999999954582819
+Error: PMS-Sennosides 36 guess=drug gold= confidence=0.998808283540208
+Error: Pneumovax 23 guess=drug gold= confidence=0.9998827312740144
+Error: Poly D 23 guess=drug gold= confidence=0.6728411100051405
+Error: Poly-Histine-DM 21 guess=drug gold= confidence=0.9999999452635621
+Error: Polycitra Syrup guess=drug gold= confidence=0.9944844545702924
+Error: Polycitra-K guess=drug gold= confidence=0.9999730938373903
+Error: Polygam S/D guess=drug gold= confidence=0.9936705684849524
+Error: PPA guess=drug gold= confidence=0.8641591320888827
+Error: Pre-Attain guess=drug gold= confidence=0.9282889696796517
+Error: Pred Forte guess=drug gold= confidence=0.9999395695666675
+Error: Predair A guess=movie gold= confidence=0.6381991785087174
+Error: Predate S guess=drug gold= confidence=0.9911447253692877
+Error: Prednicot guess=drug gold= confidence=0.9392247432771983
+Error: Pregestimil guess=drug gold= confidence=0.9981373597638494
+Error: Prelu-2 guess=drug gold= confidence=0.9994920570835326
+Error: Premarin with Methyltestosterone guess=drug gold= confidence=0.9999996008767994
+Error: Pressyn guess=movie gold= confidence=0.4706449878668168
+Error: PreSun Moisturizing 49 guess=drug gold= confidence=0.9999992788965535
+Error: PreSun Spray Mist 34 47 guess=drug gold= confidence=0.9999999999916085
+Error: Prevacid guess=drug gold= confidence=0.9968430953708538
+Error: PRIMAQUINE guess=drug gold= confidence=0.9990505726969146
+Error: Pro-Cal-Sof 44 guess=drug gold= confidence=0.9999999984364507
+Error: Pro-Med 50 guess=drug gold= confidence=0.9999763443090589
+Error: Procardia XL guess=drug gold= confidence=0.9827659989517712
+Error: Prodiem Plain guess=drug gold= confidence=0.974361805474547
+Error: Prodrox guess=drug gold= confidence=0.9985395241256072
+Error: Profasi guess=drug gold= confidence=0.941661672235984
+Error: Proloprim guess=drug gold= confidence=0.9995752719893468
+Error: Promacot guess=drug gold= confidence=0.9652552202004288
+Error: Prominicol Cough 77 guess=drug gold= confidence=0.9996422232462654
+Error: Prop-a-Hist 14 guess=drug gold= confidence=0.9999999344729268
+Error: Propa pH Medicated Cleansing Pads Maximum Strength guess=drug gold= confidence=0.9728219710580612
+Error: Propine guess=drug gold= confidence=0.9989187017694567
+Error: Proplex T guess=drug gold= confidence=0.9998582091438415
+Error: Prorex-50 guess=drug gold= confidence=0.9999293410524139
+Error: Provera Pak guess=movie gold= confidence=0.645778513004509
+Error: Pseudo-Car DM 23 guess=drug gold= confidence=0.9999997872252755
+Error: Pyri guess=movie gold= confidence=0.5175837584198992
+Error: Quadramet guess=drug gold= confidence=0.7468845914785105
+Error: Quelidrine Cough 65 guess=drug gold= confidence=0.9994174602831819
+Error: Raxar guess=drug gold= confidence=0.8769067955517686
+Error: Regular Iletin II guess=drug gold= confidence=0.9999982670304904
+Error: Regular Strength Tylenol Cough Medication with Decongestant124 guess=drug gold= confidence=0.9999999999992646
+Error: Reguloid Natural guess=drug gold= confidence=0.9999883433231808
+Error: Reguloid Natural Sugar Free guess=drug gold= confidence=0.9999910778778633
+Error: Relafen 12 guess=drug gold= confidence=0.9999988589796559
+Error: Rep-Pred 40 guess=drug gold= confidence=0.9999983709184423
+Error: Rep-Pred 80 guess=drug gold= confidence=0.9998751494819341
+Error: Replete with Fiber guess=drug gold= confidence=0.9998809799988041
+Error: Requip guess=drug gold= confidence=0.7732345250607561
+Error: Rescon-DM 33 guess=drug gold= confidence=0.9999998451677778
+Error: Rescon-ED 15 guess=drug gold= confidence=0.9999893283458632
+Error: Respaire-60 SR 142 guess=drug gold= confidence=0.9999999998583711
+Error: Resyl guess=drug gold= confidence=0.9732507791487568
+Error: Rhinocort Turbuhaler guess=drug gold= confidence=0.9891791572400892
+Error: Riopan 23 guess=drug gold= confidence=0.9830395280590002
+Error: Riopan Plus Extra Strength 24 guess=drug gold= confidence=0.9999999998269615
+Error: Rituxan guess=movie gold= confidence=0.35472014448338834
+Error: Robafen AC Cough 106 guess=drug gold= confidence=0.9999987528168145
+Error: Robalog guess=drug gold= confidence=0.601251978564161
+Error: Robinul guess=drug gold= confidence=0.8687219737476268
+Error: Robitussin Pediatric Cough & Cold 121 guess=drug gold= confidence=0.9999999994598454
+Error: Robitussin with Codeine 15 guess=drug gold= confidence=0.99999979876583
+Error: Robitussin-DM 109 guess=drug gold= confidence=0.9999999916863622
+Error: Robitussin-PE 142 guess=drug gold= confidence=0.9999999907993278
+Error: Rogaine guess=drug gold= confidence=0.6905144505806099
+Error: Roniacol guess=drug gold= confidence=0.848884943517956
+Error: Rowasa guess=place gold= confidence=0.6712431401129764
+Error: Roxilox guess=drug gold= confidence=0.9997023709218001
+Error: RSV-IGIV guess=drug gold= confidence=0.9947516294812273
+Error: Ru-Tuss guess=drug gold= confidence=0.9675949299935553
+Error: Ru-Tuss 10 guess=drug gold= confidence=0.9999994675887806
+Error: Rulox No. 2 guess=drug gold= confidence=0.9996890832132617
+Error: Rulox Plus guess=drug gold= confidence=0.9999972920546406
+Error: Sal-Acid Plaster guess=drug gold= confidence=0.9901621021856878
+Error: Salagen guess=drug gold= confidence=0.7212109693287736
+Error: Scot-Tussin Senior Clear 109 guess=drug gold= confidence=0.9999998172734006
+Error: Sebucare guess=drug gold= confidence=0.6873750643381722
+Error: Seconal guess=movie gold= confidence=0.5443618463197182
+Error: Sectral guess=drug gold= confidence=0.8636758286614156
+Error: Select 1/35 guess=drug gold= confidence=0.997415932823
+Error: Selsun Blue Extra Conditioning Formula guess=drug gold= confidence=0.9994886239623437
+Error: Senexon 35 guess=drug gold= confidence=0.9999762830794499
+Error: Senna-Gen 35 guess=drug gold= confidence=0.9997876015260027
+Error: SensoGARD Canker Sore Relief guess=drug gold= confidence=0.8112664324927451
+Error: Sensorcaine Forte guess=drug gold= confidence=0.9999962017041317
+Error: Ser-A-Gen guess=drug gold= confidence=0.9998684111150373
+Error: Shovite guess=movie gold= confidence=0.5247891773627146
+Error: Similac 20 guess=drug gold= confidence=0.9999870328906195
+Error: Sintrom guess=drug gold= confidence=0.9110058605183304
+Error: Sinus Allergy Triaminicin Cold guess=drug gold= confidence=0.9999498214382075
+Error: Sinutab No Drowsiness Extra Strength Caplets guess=drug gold= confidence=0.9999999989189483
+Error: Sinutrol 500 Caplets guess=drug gold= confidence=0.9999999997370956
+Error: Skelex guess=drug gold= confidence=0.7325191989580444
+Error: Sleep-Eze D 10 guess=drug gold= confidence=0.9996947017251089
+Error: Slow Fe guess=movie gold= confidence=0.9494574536720978
+Error: SMA Lo-Iron 24 guess=drug gold= confidence=0.9999995933814062
+Error: Sopamycetin Ophthalmic Ointment guess=drug gold= confidence=0.9999999999996163
+Error: Sorbitrate guess=drug gold= confidence=0.989696201872297
+Error: Spasmophen guess=drug gold= confidence=0.9979461287698691
+Error: Spectro-Caine guess=drug gold= confidence=0.9993895850718937
+Error: Spectro-Chlor Ophthalmic Ointment guess=drug gold= confidence=0.9999999999919069
+Error: Spectro-Chlor Ophthalmic Solution guess=drug gold= confidence=0.9999999999884501
+Error: Spectrobid guess=drug gold= confidence=0.9885439590081623
+Error: Staphcillin guess=drug gold= confidence=0.6223764715914555
+Error: Statex Drops guess=drug gold= confidence=0.9999960025899949
+Error: Staticin guess=drug gold= confidence=0.9470056827375225
+Error: Statuss Green 39 guess=movie gold= confidence=0.7383561280181478
+Error: Stimate Nasal Spray guess=drug gold= confidence=0.9999400386903136
+Error: Storz-Dexa guess=drug gold= confidence=0.9592525431802926
+Error: Stri-Dex Regular Strength Pads guess=drug gold= confidence=0.9999999986691961
+Error: Stulex 44 guess=drug gold= confidence=0.9999973500194337
+Error: Sublimaze guess=movie gold= confidence=0.9332776549217179
+Error: Sudafed Cold & Flu Gelcaps 136 guess=drug gold= confidence=0.9999999717680628
+Error: Sudafed Cough & Cold Extra Strength Caplets 124 guess=drug gold= confidence=0.9999999999996199
+Error: Sudal 120/600 142 guess=drug gold= confidence=0.9999999002248551
+Error: Sulfair 15 guess=drug gold= confidence=0.99990681917885
+Error: Sulfolax 44 guess=drug gold= confidence=0.9999999484228126
+Error: Sundown Sunblock 38 guess=drug gold= confidence=0.9999992595863022
+Error: Sunkist guess=place gold= confidence=0.6144937445186158
+Error: Supeudol 12 guess=drug gold= confidence=0.9998897763463757
+Error: Suppressin DM Plus 126 guess=drug gold= confidence=0.9999999999889475
+Error: Suprefact guess=drug gold= confidence=0.9994279551160513
+Error: Sustacal Basic guess=drug gold= confidence=0.9637641294761748
+Error: Sustiva guess=drug gold= confidence=0.4958193203368744
+Error: Syllact guess=drug gold= confidence=0.9503809212799702
+Error: Synthroid guess=drug gold= confidence=0.9921059678824559
+Error: Talwin-Nx 14 guess=drug gold= confidence=0.9999997181179949
+Error: Tarka guess=place gold= confidence=0.7526897454639198
+Error: Tavist guess=drug gold= confidence=0.6412858123958707
+Error: Taxol guess=drug gold= confidence=0.9751207754223846
+Error: Tebrazid guess=drug gold= confidence=0.9738027637478406
+Error: Telachlor guess=drug gold= confidence=0.9026100259924354
+Error: Testred guess=drug gold= confidence=0.9811235145364128
+Error: THA guess=drug gold= confidence=0.8533052816700007
+Error: Theo-24 guess=drug gold= confidence=0.9981917811374765
+Error: Theo-SR guess=drug gold= confidence=0.9980270301285894
+Error: Theo-Time guess=drug gold= confidence=0.9906016817906016
+Error: Theoclear-80 guess=drug gold= confidence=0.9848739451836707
+Error: Theocon guess=drug gold= confidence=0.8743251269782062
+Error: Thiopentone guess=place gold= confidence=0.5188976720616003
+Error: Threamine DM 31 guess=drug gold= confidence=0.9999993605913869
+Error: Thyrar guess=place gold= confidence=0.6234814572419163
+Error: TI - UVA - B Sunscreen 41 guess=drug gold= confidence=0.9732447404514178
+Error: Tim-AK guess=drug gold= confidence=0.9898012332083436
+Error: Timolide guess=drug gold= confidence=0.9170281744928284
+Error: Tinactin Cream guess=drug gold= confidence=0.9999996406435574
+Error: Tinactin Jock Itch Cream guess=drug gold= confidence=0.999985353373636
+Error: Titralac guess=drug gold= confidence=0.9982857939258372
+Error: Titralac 18 guess=drug gold= confidence=0.9999448168189042
+Error: Titralac Plus 21 guess=drug gold= confidence=0.999999930264553
+Error: TMO guess=drug gold= confidence=0.835379926223565
+Error: Tofranil-PM guess=drug gold= confidence=0.9998981143483526
+Error: Tonocard guess=drug gold= confidence=0.5765960737004868
+Error: Topicaine guess=drug gold= confidence=0.997816085442311
+Error: Totacillin guess=drug gold= confidence=0.9274319283376948
+Error: Touro LA Caplets 142 guess=drug gold= confidence=0.9999999996084377
+Error: Trandate guess=drug gold= confidence=0.5486207095941815
+Error: Trans-Ver-Sal guess=drug gold= confidence=0.9894387562636875
+Error: Tranxene-SD guess=drug gold= confidence=0.9998148900545272
+Error: Travasorb HN guess=drug gold= confidence=0.9999940317741063
+Error: Trazon guess=movie gold= confidence=0.6947964472487725
+Error: Tri-Tannate Pediatric 16 guess=drug gold= confidence=0.9999999992387387
+Error: Trialodine guess=drug gold= confidence=0.9999091231367784
+Error: Triaminic-DM Cough Relief 118 guess=drug gold= confidence=0.999999999997268
+Error: Triamonide 40 guess=drug gold= confidence=0.9999717749743443
+Error: Tribiotic guess=drug gold= confidence=0.9040117612965494
+Error: Tridesilon guess=drug gold= confidence=0.9953721476529587
+Error: Trilafon Concentrate guess=drug gold= confidence=0.9996713818611964
+Error: Triphasil guess=drug gold= confidence=0.9307832293579773
+Error: Triposed 28 guess=drug gold= confidence=0.9974175318722986
+Error: Tristatin II guess=drug gold= confidence=0.999740589318685
+Error: Trocal guess=drug gold= confidence=0.9834101234456976
+Error: Tussafed 23 guess=drug gold= confidence=0.9996036295564306
+Error: Tussi-Organidin NR Liquid 106 guess=drug gold= confidence=0.9999999999999929
+Error: Tussogest 117 guess=drug gold= confidence=0.999986658757917
+Error: Tylenol Cold and Flu No Drowsiness Powder 124 guess=drug gold= confidence=0.9999998145528609
+Error: Tylenol Cold Multi-Symptom 58 guess=drug gold= confidence=0.9999719060766763
+Error: Tylenol Sinus Medication Regular Strength Caplets guess=drug gold= confidence=0.999999999927141
+Error: UAA guess=drug gold= confidence=0.7084238883838058
+Error: Ulobetasol guess=drug gold= confidence=0.999859716968373
+Error: ULTRAbrom PD guess=drug gold= confidence=0.9603714988670786
+Error: Uni-Multihist D 23 guess=drug gold= confidence=0.9975883922277653
+Error: Univasc guess=drug gold= confidence=0.5324971347158204
+Error: Urex guess=drug gold= confidence=0.9937028190679524
+Error: Urimed guess=drug gold= confidence=0.7829255262101649
+Error: Uro-Ves guess=drug gold= confidence=0.9804067028750608
+Error: Urocit-K guess=drug gold= confidence=0.9932019020636087
+Error: Uvadex guess=drug gold= confidence=0.9896872156075939
+Error: Valertest No. 1 guess=drug gold= confidence=0.9936515584855049
+Error: Vancenase guess=drug gold= confidence=0.9876537452162755
+Error: Vaseline Extra Defense for Hand and Body 41 guess=drug gold= confidence=0.9996988478553663
+Error: Vasocon Regular guess=drug gold= confidence=0.9999984908930682
+Error: Vasotec guess=drug gold= confidence=0.992617408377728
+Error: Veetids 13 guess=drug gold= confidence=0.9974189837638106
+Error: Versel Lotion guess=drug gold= confidence=0.9767626606013636
+Error: Vicks Children's NyQuil Cold/Cough Relief 33 guess=drug gold= confidence=0.9999999990628865
+Error: Vicks DayQuil Sinus Pressure and Congestion Relief Caplets 141 guess=drug gold= confidence=0.9999999988219379
+Error: Vicks NyQuil Multi-Symptom Cold/Flu LiquiCaps 60 guess=drug gold= confidence=0.999999974382359
+Error: Vicks Sinex 12-Hour Ultra Fine Mist for Sinus Relief guess=drug gold= confidence=0.9999999999999716
+Error: Vioform-Hydrocortisone Mild Cream guess=drug gold= confidence=0.9999999998805684
+Error: Vioform-Hydrocortisone Ointment guess=drug gold= confidence=0.9999999999838636
+Error: VIRACEPT guess=drug gold= confidence=0.9962810617513816
+Error: Virazole guess=drug gold= confidence=0.637483779329331
+Error: Visken 11 guess=drug gold= confidence=0.8269743027915454
+Error: Vumon guess=place gold= confidence=0.5359257474741965
+Error: Wintrocin guess=drug gold= confidence=0.9958436155629093
+Error: Xerac BP 5 guess=drug gold= confidence=0.9958817812619062
+Error: Xylocaine-MPF guess=drug gold= confidence=0.9999995202854346
+Error: Yohimar guess=place gold= confidence=0.42513883520227186
+Error: Z-Plus guess=drug gold= confidence=0.9929380558047483
+Error: Zanosar guess=movie gold= confidence=0.4984446804062847
+Error: Zephrex-LA 142 guess=drug gold= confidence=0.9999999904700516
+Error: Zerit guess=place gold= confidence=0.3748227511330955
+Error: Ziagen guess=drug gold= confidence=0.6893951736213026
+Error: Zincate guess=drug gold= confidence=0.9561374438001836
+Error: Zyflo guess=drug gold= confidence=0.7381681809746548
+Error: Zyrtec guess=drug gold= confidence=0.7744684144421141
+Error: Aarno Karimo guess=person gold= confidence=0.974465939292611
+Error: Abdullah Ibn Sailam guess=person gold= confidence=0.9941678448319213
+Error: Abdullah ibn Masud guess=person gold= confidence=0.999999594198189
+Error: Abraham Robinson guess=person gold= confidence=0.9999928620315106
+Error: Abu-d Dardaa guess=movie gold= confidence=0.6511076919025592
+Error: Adeodatus guess=person gold= confidence=0.5606128667089789
+Error: Adriaan Vlacq guess=person gold= confidence=0.9357975095499669
+Error: Adrian I guess=person gold= confidence=0.9886782952216984
+Error: Alain Connes guess=person gold= confidence=0.9110379545067164
+Error: Alan Baker guess=person gold= confidence=0.990774664847028
+Error: Alan L. Bean guess=person gold= confidence=0.9998633250633739
+Error: Alberta Hunter guess=person gold= confidence=0.9994754523880588
+Error: Albrecht Kossel guess=person gold= confidence=0.9921446034341127
+Error: Alessandro Volta guess=person gold= confidence=0.9207668461341492
+Error: Alexander IV guess=person gold= confidence=0.9992483617762691
+Error: Alexander Weinstein guess=person gold= confidence=0.9997326463355574
+Error: Alexis M. Herman guess=person gold= confidence=0.9999992578314921
+Error: Alfred Hermann Fried guess=person gold= confidence=0.9999999040024232
+Error: Alfred Werner guess=person gold= confidence=0.9999983781566211
+Error: Alfred von Tirpitz guess=person gold= confidence=0.9999948522417145
+Error: Alice Hayes guess=person gold= confidence=0.999127761920824
+Error: Althea Gibson guess=person gold= confidence=0.9977594980014042
+Error: Alvin "Red" Tyler guess=person gold= confidence=0.8116343760720791
+Error: Amelia Earhart guess=person gold= confidence=0.8248196239666873
+Error: Andrew Bonar Law guess=person gold= confidence=0.9999963681138319
+Error: Andrew Johnson guess=person gold= confidence=0.9999973920679774
+Error: Anne Heche guess=person gold= confidence=0.9884199647931934
+Error: Antoni Zygmund guess=person gold= confidence=0.9132270189673137
+Error: Apollo guess=movie gold= confidence=0.4077136436090361
+Error: Archer John Porter Martin guess=person gold= confidence=0.9985978128401762
+Error: Arthur Kornberg guess=person gold= confidence=0.9967697448997808
+Error: Arthur Lakes guess=person gold= confidence=0.9998164727961522
+Error: Athene guess=drug gold= confidence=0.7849328234159367
+Error: Atle Selberg guess=person gold= confidence=0.8980842171563483
+Error: August Blanche guess=person gold= confidence=0.9462522876161973
+Error: Barakah guess=movie gold= confidence=0.5388370924773334
+Error: Barbara Welther guess=person gold= confidence=0.9699827018753108
+Error: Baruj Benacerraf guess=movie gold= confidence=0.4531674651338642
+Error: Ben Kingsley guess=place gold= confidence=0.8732535297613079
+Error: Benedict I guess=person gold= confidence=0.9924324451602041
+Error: Benjamin Banneker guess=person gold= confidence=0.9989605763659843
+Error: Benjamin Waterhouse Hawkins guess=person gold= confidence=0.9998892636599062
+Error: Benoit Mandelbrot guess=person gold= confidence=0.9248058862242714
+Error: Bernt Holmboe guess=place gold= confidence=0.7105508915944199
+Error: Betty Williams guess=person gold= confidence=0.9905408881180614
+Error: Bill Pullman guess=person gold= confidence=0.9955265905660539
+Error: Bill Wilson guess=person gold= confidence=0.9999952449286613
+Error: Billy Graham guess=person gold= confidence=0.9567195635507904
+Error: Billy Hamilton guess=person gold= confidence=0.9612588905587945
+Error: Blaise Pascal guess=movie gold= confidence=0.9961715707554253
+Error: Blessed Innocent XI guess=person gold= confidence=0.9817637862048183
+Error: Bob Dylan guess=person gold= confidence=0.821755053393122
+Error: Bob Gibson guess=person gold= confidence=0.968740402011257
+Error: Bob Haggart guess=person gold= confidence=0.8490639348628115
+Error: Boniface II guess=person gold= confidence=0.9585563985155405
+Error: Bonnie J. Dunbar guess=person gold= confidence=0.9999920879057735
+Error: Boris Delone guess=person gold= confidence=0.9732029774318115
+Error: Branwell Bront? guess=person gold= confidence=0.8524805624257722
+Error: Bruce Willis guess=person gold= confidence=0.9312551437496976
+Error: Bud Freeman guess=person gold= confidence=0.6076554548858298
+Error: Buffon guess=place gold= confidence=0.6586729791991248
+Error: C de la Vall閑 Poussin guess=movie gold= confidence=0.9814948521202861
+Error: C. Mathewson guess=person gold= confidence=0.9997108386575527
+Error: Cal Ripken, Jr. guess=movie gold= confidence=0.7368975827868384
+Error: Caleb Carr guess=person gold= confidence=0.8696344528521255
+Error: Campanus of Novara guess=person gold= confidence=0.9743778911481397
+Error: Candice Bergen guess=person gold= confidence=0.7832895196085701
+Error: Carl Ferdinand Cori guess=person gold= confidence=0.9999989830363243
+Error: Carl Gustaf Verner Von Heidenstam guess=person gold= confidence=0.9999999976087075
+Error: Caroline Chisholm guess=drug gold= confidence=0.8348304279793071
+Error: Carroll J. Guillory guess=person gold= confidence=0.9999891779970536
+Error: Catfish Hunter guess=movie gold= confidence=0.6250078776400153
+Error: Celestine II guess=drug gold= confidence=0.6630477209765174
+Error: Celestine IV guess=person gold= confidence=0.7972971332807994
+Error: Charles Brianchon guess=person gold= confidence=0.9999329125032922
+Error: Charles Delaunay guess=person gold= confidence=0.9998751549075348
+Error: Charles Dodgson guess=person gold= confidence=0.9999671564104934
+Error: Charles E. Brady, Jr. guess=person gold= confidence=0.9999999996547366
+Error: Charles Jagger guess=person gold= confidence=0.9997664813681113
+Error: Charles Louis Alphonse Laveran guess=person gold= confidence=0.9999999999431317
+Error: Charles Pears guess=person gold= confidence=0.9982408734290475
+Error: Charles Reyneau guess=person gold= confidence=0.9786535166852214
+Error: Charlie Chaplin guess=person gold= confidence=0.990744489417702
+Error: Charlotte Scott guess=person gold= confidence=0.9998203015763332
+Error: Cher guess=place gold= confidence=0.3799892712127862
+Error: Chester W. Nimitz guess=person gold= confidence=0.9992520014985175
+Error: Chevy Chase guess=person gold= confidence=0.6150569954641578
+Error: Christina Ricci guess=person gold= confidence=0.9995356294855934
+Error: Christopher Clavius guess=person gold= confidence=0.9999739507126124
+Error: Christopher Marlowe guess=person gold= confidence=0.998801243242342
+Error: Claude Debussy guess=person gold= confidence=0.9991110412086212
+Error: Claude Dechales guess=person gold= confidence=0.9993375457248963
+Error: Clement III guess=person gold= confidence=0.9996374212419691
+Error: Cleopatra VII guess=movie gold= confidence=0.7445680857121559
+Error: Clouet guess=place gold= confidence=0.5056360072893368
+Error: Colonel Mary A. Hallaren guess=person gold= confidence=0.9999852375866018
+Error: Conon guess=place gold= confidence=0.5900088339955564
+Error: D'alembert guess=place gold= confidence=0.6376864209449906
+Error: Daniel M. Tani guess=person gold= confidence=0.9999995858524042
+Error: David Bomberg guess=person gold= confidence=0.9774599314044278
+Error: David H. Hubel guess=person gold= confidence=0.9999900566930532
+Error: David Lloyd George guess=person gold= confidence=0.9999778791624215
+Error: David R. Williams guess=person gold= confidence=0.999999650870152
+Error: David Spade guess=person gold= confidence=0.9458471771669602
+Error: Deepak Chopra guess=movie gold= confidence=0.7941807424587684
+Error: Democritus of Abdera guess=person gold= confidence=0.9947151275484484
+Error: Dianne Feinstein guess=person gold= confidence=0.9932067357617663
+Error: Dickinson W. Richards guess=person gold= confidence=0.9999958837876017
+Error: Dimitri Egorov guess=person gold= confidence=0.9800475967418298
+Error: Dirk Bouts guess=movie gold= confidence=0.9835699856813702
+Error: Don Carlos Buell guess=person gold= confidence=0.9993186732735194
+Error: Dr. Dean Ornish guess=person gold= confidence=0.8361041160015245
+Error: Earl of Aberdeen guess=person gold= confidence=0.6111860629092298
+Error: Eddie Arcaro guess=person gold= confidence=0.9857883291531047
+Error: Eddie Plank guess=person gold= confidence=0.7576886012303702
+Error: Edmund Kirby Smith guess=person gold= confidence=0.9999760278617645
+Error: Edouard Manet guess=person gold= confidence=0.9696732449335383
+Error: Edward Drinker Cope guess=person gold= confidence=0.9999863181685553
+Error: Edward I guess=person gold= confidence=0.9999687785993827
+Error: Edward III guess=person gold= confidence=0.9999982855150218
+Error: Edward Ory guess=person gold= confidence=0.9999849168292747
+Error: Edward V guess=person gold= confidence=0.9999950185935423
+Error: Edwin G. Krebs guess=person gold= confidence=0.999997788876579
+Error: Elias Canetti guess=person gold= confidence=0.9960018903369272
+Error: Elie Wiesel guess=person gold= confidence=0.9717437890345504
+Error: Elisabeth Kuber Ross guess=person gold= confidence=0.9999055599637217
+Error: Elizabeth Virginia Wallace Truman guess=person gold= confidence=0.9857453199153825
+Error: Ellen S. Baker guess=person gold= confidence=0.9999520907274752
+Error: Elton John guess=person gold= confidence=0.9970925094209078
+Error: Emmy Noether guess=person gold= confidence=0.9814976000998328
+Error: Empedocles guess=movie gold= confidence=0.7046113918268748
+Error: Eric F. Wieschaus guess=person gold= confidence=0.9997877241688847
+Error: Eric Heiden guess=person gold= confidence=0.995020600086272
+Error: Erich Hecke guess=person gold= confidence=0.9988783270282949
+Error: Erik Zeeman guess=person gold= confidence=0.9852480351031818
+Error: Erland Bring guess=person gold= confidence=0.5853380982519283
+Error: Ernest Miller Hemingway guess=person gold= confidence=0.9565290920737486
+Error: Ernie Lombardi guess=person gold= confidence=0.9851729793464002
+Error: Erwin Freundlich guess=person gold= confidence=0.6430809210292737
+Error: Estee Lauder guess=person gold= confidence=0.9721494458075545
+Error: Etienne Pascal guess=person gold= confidence=0.861140193652352
+Error: F. E. Sillanp滗 guess=person gold= confidence=0.9999993589425044
+Error: Florence Sabin guess=person gold= confidence=0.999565672662686
+Error: Francesco Cantelli guess=person gold= confidence=0.9996026828321444
+Error: Francis Galton guess=person gold= confidence=0.9997879610945212
+Error: Francois Tisserand guess=person gold= confidence=0.9860014640087738
+Error: Frank McCourt guess=person gold= confidence=0.9954947515021434
+Error: Fred W. Haise guess=person gold= confidence=0.9999316853482211
+Error: Frederick Soddy guess=person gold= confidence=0.9989467852148446
+Error: Friedrich Schottky guess=person gold= confidence=0.9992552729127412
+Error: Fr閐閞ic Bazille guess=person gold= confidence=0.9976399608233048
+Error: G F Bernhard Riemann guess=person gold= confidence=0.9993650676629731
+Error: G N Watson guess=person gold= confidence=0.8739234239007672
+Error: G de Roberval Personne guess=person gold= confidence=0.9556599814990542
+Error: G. David Low guess=person gold= confidence=0.9999594036365159
+Error: Gabriel Koenigs guess=person gold= confidence=0.9450384973650533
+Error: Gabriela Mistral guess=person gold= confidence=0.7742285138283399
+Error: Galahad guess=movie gold= confidence=0.5272064290252038
+Error: Genevieve M. Knight guess=person gold= confidence=0.9997861591657076
+Error: Georg Scheffers guess=person gold= confidence=0.9996694107638816
+Error: George Atwood guess=person gold= confidence=0.9987433451698107
+Error: George Bernard Shaw guess=person gold= confidence=0.9999986954889817
+Error: George Canning guess=person gold= confidence=0.9984262506877404
+Error: George Darwin guess=person gold= confidence=0.9989049085205031
+Error: George Foster guess=person gold= confidence=0.9998033021031651
+Error: George Washington guess=person gold= confidence=0.944303082435916
+Error: Georges Comte de Buffon guess=person gold= confidence=0.9924415683524593
+Error: Georgii Pfeiffer guess=person gold= confidence=0.9938164876329287
+Error: Georgii Polozii guess=person gold= confidence=0.9896970026440687
+Error: Gerhard Domagk guess=person gold= confidence=0.9473751049321406
+Error: Gerhard Gentzen guess=person gold= confidence=0.9923260391296034
+Error: Germinal Dandelin guess=drug gold= confidence=0.9768938217184941
+Error: Gertrude B. Elion Perlman guess=person gold= confidence=0.999987902149578
+Error: Gertrude Rainey guess=person gold= confidence=0.8981612356099923
+Error: Giovanni Saccheri guess=person gold= confidence=0.9998632617476095
+Error: Giovanni Vacca guess=person gold= confidence=0.99713219038517
+Error: Giulio Natta guess=person gold= confidence=0.8396088837864126
+Error: Giuseppe Bruno guess=person gold= confidence=0.9811838629911817
+Error: Giuseppe Veronese guess=person gold= confidence=0.983839179004534
+Error: Goerg Henrik Von Wright guess=person gold= confidence=0.9999917121389754
+Error: Gorlois guess=place gold= confidence=0.6495262182205113
+Error: Gregory IX guess=person gold= confidence=0.9995632459561821
+Error: Gregory VI guess=person gold= confidence=0.9999453868269627
+Error: Gregory VIII guess=person gold= confidence=0.9999723713051328
+Error: Gustav Hertz guess=person gold= confidence=0.9994083867810388
+Error: Gustav Stresemann guess=person gold= confidence=0.963411923501953
+Error: Hank Greenberg guess=place gold= confidence=0.8240347409917262
+Error: Hank Williams guess=person gold= confidence=0.979546925638543
+Error: Hans Baldung Grien guess=person gold= confidence=0.9997815694871598
+Error: Hans Heilbronn guess=person gold= confidence=0.9924865160899431
+Error: Hans Reichenbach guess=place gold= confidence=0.553026971375503
+Error: Hassan II guess=person gold= confidence=0.8978038131703987
+Error: Heather Locklear guess=movie gold= confidence=0.9887927090948101
+Error: Henri Lebesgue guess=person gold= confidence=0.9952639050363383
+Error: Henry Baker guess=person gold= confidence=0.9999907114893919
+Error: Herakles guess=movie gold= confidence=0.5496857895912399
+Error: Hercules guess=movie gold= confidence=0.6174684596245389
+Error: Hermann Kober guess=person gold= confidence=0.999698006646881
+Error: Honore Dutrey guess=person gold= confidence=0.9712051644042098
+Error: Honorius I guess=person gold= confidence=0.9985219756077199
+Error: Horace Smith-Dorrien guess=person gold= confidence=0.9684208813073628
+Error: Howard Martin Temin guess=person gold= confidence=0.9998969121087439
+Error: Howard Stern guess=person gold= confidence=0.9577949414234955
+Error: Hugh Duffy guess=person gold= confidence=0.9638245076566474
+Error: Iivo H鋜k鰊en guess=movie gold= confidence=0.5068476809990766
+Error: Innocent II guess=person gold= confidence=0.9593306620548557
+Error: Ir閚e?-Jules Bienaym? guess=movie gold= confidence=0.8553719989239392
+Error: Isaac Newton guess=place gold= confidence=0.8378023671610082
+Error: Isacc Asimov guess=person gold= confidence=0.7102070628815567
+Error: Issai Schur guess=person gold= confidence=0.9637485632579837
+Error: Iurii Linnik guess=person gold= confidence=0.9251524954269966
+Error: J. L. Runeberg guess=person gold= confidence=0.9999819430835697
+Error: Jacob Cooper guess=person gold= confidence=0.9997726858617372
+Error: Jacob Nielsen guess=person gold= confidence=0.9995928708182288
+Error: James H. Curry guess=person gold= confidence=0.9999999883410667
+Error: James K. Polk guess=person gold= confidence=0.9999978115999291
+Error: James M. Kelly guess=person gold= confidence=0.9999999979709067
+Error: James Spader guess=person gold= confidence=0.9999607323986591
+Error: James Sylvester guess=person gold= confidence=0.9999987204171477
+Error: Jan van Eyck guess=person gold= confidence=0.9973567703506855
+Error: Jean Argand guess=person gold= confidence=0.9619074322471786
+Error: Jean Duhamel guess=person gold= confidence=0.9997994848607951
+Error: Jean Richer guess=person gold= confidence=0.999771021527821
+Error: Jean-Loup Chr閠ien guess=person gold= confidence=0.9836450171346162
+Error: Jennifer Lopez guess=person gold= confidence=0.9910228783961378
+Error: Jesse Douglas guess=person gold= confidence=0.9983852054400564
+Error: Jesse Owens guess=person gold= confidence=0.9619628621485182
+Error: Jim Bottomley guess=person gold= confidence=0.6597428331631732
+Error: Jim Carey guess=person gold= confidence=0.9837454442619106
+Error: Jimmy Smits guess=person gold= confidence=0.8310745174206483
+Error: Joan Cusack guess=person gold= confidence=0.9993433142599751
+Error: Joan Rivers guess=person gold= confidence=0.7754500742741708
+Error: Joe Mcginnity guess=person gold= confidence=0.9988469658348944
+Error: Joe Medwick guess=person gold= confidence=0.9954771822657187
+Error: Johann Bernoulli guess=person gold= confidence=0.9992925158525254
+Error: Johann Deisenhofer guess=person gold= confidence=0.9990486667504027
+Error: Johannes Vilhelm Jensen guess=person gold= confidence=0.9999960202048368
+Error: John Bernoulli guess=person gold= confidence=0.9995826763770453
+Error: John Brown Gordon guess=person gold= confidence=0.9999971781123882
+Error: John Burkill guess=person gold= confidence=0.9997381735974006
+Error: John Clarkson guess=person gold= confidence=0.9999546417678972
+Error: John Dewey guess=person gold= confidence=0.9997743650829405
+Error: John L. Phillips guess=person gold= confidence=0.9999546225785486
+Error: John Leech guess=person gold= confidence=0.9993147008066975
+Error: John Leland guess=person gold= confidence=0.9994737584879819
+Error: John Lincoln guess=person gold= confidence=0.9986942459617826
+Error: John M. Chivington guess=person gold= confidence=0.9999996413812354
+Error: John Mccausland guess=person gold= confidence=0.9999838943903874
+Error: John Slidell guess=person gold= confidence=0.9998182239919942
+Error: John Tukey guess=person gold= confidence=0.9999800572606906
+Error: John Whittaker guess=person gold= confidence=0.999885551331109
+Error: John Wilson guess=person gold= confidence=0.9999945569488049
+Error: John Wishart guess=person gold= confidence=0.9978303188037427
+Error: John XXI guess=person gold= confidence=0.997328610767122
+Error: John of Holywood guess=person gold= confidence=0.9972049388425945
+Error: Johnny Bench guess=person gold= confidence=0.9994434123515119
+Error: Joris Hoefnagel guess=person gold= confidence=0.9987050234611677
+Error: Josef Goebbels guess=person gold= confidence=0.5653104105268097
+Error: Joseph Doob guess=person gold= confidence=0.9958957770816863
+Error: Joseph Joffre guess=person gold= confidence=0.9999613902116824
+Error: Joseph Saurin guess=person gold= confidence=0.9999762996997287
+Error: Joseph of Arimathea guess=person gold= confidence=0.9696129795317088
+Error: Josif Shtokalo guess=person gold= confidence=0.9733237940481355
+Error: Julia Bowman Robinson guess=person gold= confidence=0.9999980996004619
+Error: Julio Rey Pastor guess=person gold= confidence=0.9767908053613255
+Error: Justice Kennedy guess=person gold= confidence=0.9997544686588126
+Error: Justice Rehnquist guess=person gold= confidence=0.8548699276499402
+Error: J鰎n Donner guess=person gold= confidence=0.9852161261830243
+Error: K C Sreedharan Pillai guess=person gold= confidence=0.9866465496313268
+Error: K. Alexander M黮ler guess=person gold= confidence=0.9999579142717996
+Error: Karl Rahner guess=person gold= confidence=0.999805782056984
+Error: Kate Kirby guess=person gold= confidence=0.953020247030882
+Error: Kate Winslet guess=person gold= confidence=0.9132931177370592
+Error: Katharine Hepburn guess=person gold= confidence=0.9346502782528948
+Error: Kathryn Flanagan guess=drug gold= confidence=0.7314324218680466
+Error: Keith Stewartson guess=place gold= confidence=0.6269839358292157
+Error: Kevin Costner guess=person gold= confidence=0.9950501454347398
+Error: Kevin P. Chilton guess=person gold= confidence=0.9999940748372572
+Error: King Kelly guess=person gold= confidence=0.927085434134464
+Error: Knut Hamsun guess=person gold= confidence=0.976676713263367
+Error: Konrad Knopp guess=person gold= confidence=0.9044551049217717
+Error: Konrad Zuse guess=person gold= confidence=0.989386388990865
+Error: Kristie Hendrickson guess=person gold= confidence=0.9999934234432841
+Error: Ladislaus Bortkiewicz guess=person gold= confidence=0.7148578914351648
+Error: Lambert Quetelet guess=place gold= confidence=0.5425110925129346
+Error: Larry King guess=person gold= confidence=0.9942711308886609
+Error: Lars Olof Nathan S鰀erblom guess=person gold= confidence=0.9998747407995621
+Error: Lawrence Taylor guess=person gold= confidence=0.999866375567571
+Error: Lee Remick guess=person gold= confidence=0.6615171366075725
+Error: Lena Horne guess=person gold= confidence=0.9433007037039893
+Error: Leo VI guess=person gold= confidence=0.9980192051711158
+Error: Leon M. Lederman Lederman guess=person gold= confidence=0.9999996462260783
+Error: Leonard Wood guess=person gold= confidence=0.9988895756677898
+Error: Leonhard Euler guess=person gold= confidence=0.9983192360610884
+Error: Leonid Vitaliyevich Kantorovich guess=person gold= confidence=0.999057567364269
+Error: Lewis Strauss guess=person gold= confidence=0.9857577270536013
+Error: Linus Pauling guess=person gold= confidence=0.999126347391931
+Error: Lord Boyd Orr of Brechin guess=person gold= confidence=0.9999939988406351
+Error: Louis Arbogast guess=person gold= confidence=0.9459645335790838
+Error: Louis Riel guess=person gold= confidence=0.9999070647516779
+Error: Louis Vierne guess=person gold= confidence=0.9992725962314981
+Error: Lucy Lawless guess=person gold= confidence=0.8795927727949099
+Error: Ludwig Quidde guess=person gold= confidence=0.9892731533614154
+Error: Luigi Grandi guess=person gold= confidence=0.9930198573758305
+Error: Luis Aparicio guess=person gold= confidence=0.9327528783635339
+Error: L醩zl? Kalm醨 guess=person gold= confidence=0.7406634983922982
+Error: L閛n Victor Auguste Bourgeois guess=person gold= confidence=0.9999847340845223
+Error: Marcel Grossmann guess=person gold= confidence=0.9992258980864391
+Error: Margaret Burbridge guess=person gold= confidence=0.9559137313239606
+Error: Margaret Mead guess=person gold= confidence=0.8868639755844643
+Error: Margaret Sanger guess=person gold= confidence=0.9738398348034104
+Error: Maria da Lourdes Pintasilgo guess=movie gold= confidence=0.8490152094574651
+Error: Marie Guillaumat guess=person gold= confidence=0.9939059765290492
+Error: Marilyn Horne guess=person gold= confidence=0.9305373798382733
+Error: Marilyn Whittemore guess=person gold= confidence=0.4985114767979169
+Error: Mario Andretti guess=person gold= confidence=0.9991082270731616
+Error: Mark L. Polansky guess=person gold= confidence=0.9999722439157199
+Error: Martin Lawrence guess=person gold= confidence=0.9124846225211474
+Error: Marton Taiga guess=place gold= confidence=0.5946425318749655
+Error: Mary Somerville guess=person gold= confidence=0.8844762260922284
+Error: Mary Todd Lincoln guess=person gold= confidence=0.9984699850031207
+Error: Matthew B. Ridgway guess=person gold= confidence=0.9997771850308377
+Error: Mauri Sariola guess=person gold= confidence=0.9937935556810333
+Error: Melchior Broederlam guess=movie gold= confidence=0.8658902038775022
+Error: Melvin Calvin guess=person gold= confidence=0.8340546368078142
+Error: Mia Farrow guess=person gold= confidence=0.9670783965120962
+Error: Michael A. Baker guess=person gold= confidence=0.9999997833551276
+Error: Michael Faraday guess=person gold= confidence=0.985351842629516
+Error: Michael J. Bloomfield guess=person gold= confidence=0.9999584856579468
+Error: Michael J. McCulley guess=person gold= confidence=0.9999999333116869
+Error: Michael P. Anderson guess=person gold= confidence=0.9999997663157447
+Error: Michel Rolle guess=person gold= confidence=0.9989839316036814
+Error: Mickey Mantle guess=person gold= confidence=0.5513518195227693
+Error: Miguel Angel Asturias guess=movie gold= confidence=0.9579568277307007
+Error: Millard Fillmore guess=person gold= confidence=0.5542212228301541
+Error: Miller Huggins guess=person gold= confidence=0.9096217824810929
+Error: Mohamed Anwar El Sadat guess=movie gold= confidence=0.9691808262674001
+Error: Monte Irvin guess=person gold= confidence=0.8878834088655131
+Error: Mordred guess=place gold= confidence=0.6566945640453841
+Error: Moritz Pasch guess=movie gold= confidence=0.5807444096610254
+Error: Musab ibn Umayr guess=person gold= confidence=0.9999365564640283
+Error: Napoleon Bonaparte Buford guess=person gold= confidence=0.9872195278761222
+Error: Nasir Khwaja guess=person gold= confidence=0.9953687664045631
+Error: Nathan Jacobson guess=person gold= confidence=0.9998137603791019
+Error: Ned Kelly guess=person gold= confidence=0.9934785465100551
+Error: Nellie Bly guess=person gold= confidence=0.8815650613008785
+Error: Nick Green guess=person gold= confidence=0.9201340794572056
+Error: Nicolaus Copernicus guess=person gold= confidence=0.9984018694264661
+Error: Nicolaus Fuss guess=person gold= confidence=0.9919043206348981
+Error: Niels Henrik Abels guess=person gold= confidence=0.9964802085884177
+Error: Nikolay Nikolaevich Semenov guess=person gold= confidence=0.9996416459274389
+Error: Norman E. Thagard guess=person gold= confidence=0.99993990499325
+Error: Norman H. Schwarzkopf guess=person gold= confidence=0.9931442942285393
+Error: Olavi Paavolainen guess=drug gold= confidence=0.6158357836635308
+Error: Oleksandr Sharkovsky guess=person gold= confidence=0.9997194312659353
+Error: Olga Cordero guess=movie gold= confidence=0.5622920011679915
+Error: Oliver O. Howard guess=person gold= confidence=0.9997902024489361
+Error: Omar Khayyam guess=person gold= confidence=0.6243152357409238
+Error: Oronce Fine guess=drug gold= confidence=0.4794684699637482
+Error: Osborne Reynolds guess=place gold= confidence=0.6865662665108518
+Error: Otto Graham guess=person gold= confidence=0.9997763822907385
+Error: Otto Manninen guess=person gold= confidence=0.9977223153641726
+Error: Otto Sz醩z guess=person gold= confidence=0.9962431862514254
+Error: Pamela A. Melroy guess=person gold= confidence=0.9996140857018608
+Error: Paolo Ruffini guess=person gold= confidence=0.7475735100163131
+Error: Paschal II guess=movie gold= confidence=0.995193567685573
+Error: Patricia Cornwell guess=person gold= confidence=0.9803038750352527
+Error: Patricia Ryan Nixon guess=person gold= confidence=0.9999872799450849
+Error: Paul Barbarin guess=person gold= confidence=0.9998391716657994
+Error: Paul C閦anne guess=person gold= confidence=0.9930790757494332
+Error: Paul II guess=person gold= confidence=0.9925473847372976
+Error: Paul Newman guess=person gold= confidence=0.9994164557453906
+Error: Paul Signac guess=person gold= confidence=0.9995603023850336
+Error: Pauline Frederick guess=person gold= confidence=0.9996311952739612
+Error: Penny Okamoto guess=movie gold= confidence=0.5708840039479884
+Error: Peter J. K. Wisoff guess=person gold= confidence=0.9999950221056914
+Error: Petrus Josephus Wilhelmus Debye guess=person gold= confidence=0.999999999897156
+Error: Phidias guess=drug gold= confidence=0.8055548048409242
+Error: Pierre Gassendi guess=person gold= confidence=0.9933160947835961
+Error: Pierre H閞igone guess=person gold= confidence=0.9997407972938166
+Error: Pierre L閛n Boutroux guess=person gold= confidence=0.9993370803352001
+Error: Pierre Wantzel guess=person gold= confidence=0.9993370007274972
+Error: Pierre de Maupertuis guess=person gold= confidence=0.9991506690821371
+Error: Piers Bohl guess=person gold= confidence=0.9488378441812695
+Error: Piers J. Sellers guess=person gold= confidence=0.9980020144163301
+Error: Pius XII guess=person gold= confidence=0.9999147125301137
+Error: Plotinus guess=drug gold= confidence=0.9135876116884545
+Error: Prince Rupprecht guess=person gold= confidence=0.9782228982089326
+Error: Proclus Diadochus guess=drug gold= confidence=0.6513299442983005
+Error: Ptolemy guess=drug gold= confidence=0.7489243733838965
+Error: Rachel Robinson guess=person gold= confidence=0.9998591466146248
+Error: Ralph Waldo Emerson guess=person gold= confidence=0.9999995889303924
+Error: Ramlah bint Abi Sufyan guess=person gold= confidence=0.9992684952553098
+Error: Ray Kroc guess=person gold= confidence=0.9772243027982965
+Error: Ray Schalk guess=person gold= confidence=0.8695309308436486
+Error: Ren? Thom guess=person gold= confidence=0.9967904246528196
+Error: Ren? de Sluze guess=person gold= confidence=0.7609709870194096
+Error: Richard C. Holbrooke guess=person gold= confidence=0.9999962559772808
+Error: Richard I guess=person gold= confidence=0.9966723925664879
+Error: Richard M. Linnehan guess=person gold= confidence=0.9999961059199749
+Error: Richard R. Ernst guess=person gold= confidence=0.999999991160692
+Error: Richard W. Riley guess=person gold= confidence=0.9999994227673611
+Error: Richard Yates guess=person gold= confidence=0.9992824419152692
+Error: Robert B醨醤y guess=person gold= confidence=0.9994390847256275
+Error: Robert Coffin guess=person gold= confidence=0.999917968785673
+Error: Robert D. Cabana guess=person gold= confidence=0.9999999148409505
+Error: Robert Duvall guess=person gold= confidence=0.9999878430435736
+Error: Robert O'Hara Burke guess=person gold= confidence=0.9999984257008869
+Error: Robert Pilatus guess=person gold= confidence=0.9998387387484009
+Error: Robert Recorde guess=person gold= confidence=0.9964486355964396
+Error: Roger Bresnahan guess=person gold= confidence=0.8877676957597945
+Error: Rogers Hornsby guess=person gold= confidence=0.6045036292878626
+Error: Rolf M. Zinkernagel guess=person gold= confidence=0.9925829943069588
+Error: Ronald E. McNair guess=person gold= confidence=0.9999972547632124
+Error: Roussou, guess=place gold= confidence=0.8969554835940088
+Error: Roy Rogers guess=person gold= confidence=0.9357226367803204
+Error: Rumaysa bint Milhan guess=person gold= confidence=0.9860741169669002
+Error: Ruth Moufang guess=person gold= confidence=0.9194945813654467
+Error: Sam Walton guess=person gold= confidence=0.9893444341686761
+Error: Samuil Shatunovsky guess=person gold= confidence=0.9841393705798208
+Error: Schack August Steenberg Krogh Krogh guess=person gold= confidence=0.9999955428033561
+Error: Sergius IV guess=person gold= confidence=0.9998396899292322
+Error: Severo Ochoa guess=person gold= confidence=0.8506809062570971
+Error: Sharon Christa McAuliffe guess=person gold= confidence=0.9995827702547214
+Error: Sidney Bechet guess=person gold= confidence=0.9974715375794801
+Error: Simon Lhuilier guess=person gold= confidence=0.9975973333810844
+Error: Simone Martini guess=person gold= confidence=0.9989958656802752
+Error: Sir Alexander Fleming guess=person gold= confidence=0.999995442601691
+Error: Sir Arthur Harden guess=person gold= confidence=0.9999962370617308
+Error: Sir Christopher Wren guess=person gold= confidence=0.99999899690911
+Error: Sir Hans Adolf Krebs guess=person gold= confidence=0.9999998682891282
+Error: Sir Henry Hallett Dale guess=person gold= confidence=0.9999999991425312
+Error: Sir James Jeans guess=person gold= confidence=0.9999994599227764
+Error: Sir John Warcup Cornforth guess=person gold= confidence=0.9997976737004205
+Error: Sir Ronald Ross guess=person gold= confidence=0.9999993799267526
+Error: Solomon Lefschetz guess=movie gold= confidence=0.968751568058624
+Error: St. Celestine I guess=person gold= confidence=0.9997569121751603
+Error: St. Hyginus guess=person gold= confidence=0.9845924987132934
+Error: St. Martin I guess=person gold= confidence=0.9793805100465208
+Error: St. Thomas Aquinas guess=person gold= confidence=0.9994054527420085
+Error: St. Zosimus guess=person gold= confidence=0.8442803650959989
+Error: Stanislaw M. Ulam guess=person gold= confidence=0.9999902551064641
+Error: Stanislaw Mazur guess=person gold= confidence=0.9149862026193859
+Error: Stanley Kubrick guess=person gold= confidence=0.9383856010547726
+Error: Steve Buscemi guess=person gold= confidence=0.89599280803756
+Error: Stieg Trenter guess=movie gold= confidence=0.7103247819564532
+Error: Susumu Tonegaw guess=movie gold= confidence=0.9181542966175482
+Error: Tartaglia guess=place gold= confidence=0.8728184967554818
+Error: Thabit ibn Qays guess=person gold= confidence=0.999639231608362
+Error: Thales guess=place gold= confidence=0.9627536251355358
+Error: Thales of Miletus guess=movie gold= confidence=0.7116356784443525
+Error: Thanatos guess=person gold= confidence=0.4808659676755225
+Error: Theodor Reye guess=person gold= confidence=0.9721060132433579
+Error: Theodosius of Bithynia guess=person gold= confidence=0.9960824123560539
+Error: Thomas Carey guess=person gold= confidence=0.9998619784834616
+Error: Thomas Digges guess=person gold= confidence=0.9978477503921249
+Error: Thomas Edward Lawrence guess=person gold= confidence=0.9999999994648512
+Error: Thomas Heatherington guess=place gold= confidence=0.8485388149453184
+Error: Thomas Ward Custer guess=person gold= confidence=0.999975190506985
+Error: Tobey Maguire guess=person gold= confidence=0.6858712001142399
+Error: Tojo Hideki guess=person gold= confidence=0.7126389331942001
+Error: Tom Hanks guess=person gold= confidence=0.9641782983502563
+Error: Tommaso Boggio guess=person gold= confidence=0.9262025859599865
+Error: Tristan & Isolde guess=drug gold= confidence=0.9978916422675083
+Error: Tutankhamen guess=place gold= confidence=0.9460584869647146
+Error: Ulysses Simpson Grant guess=person gold= confidence=0.9976138311620361
+Error: Vaughan Jones guess=person gold= confidence=0.9928009794908631
+Error: Vigdis Finnbogadottir guess=movie gold= confidence=0.5373932140374358
+Error: Vilhelm Bjerknes guess=person gold= confidence=0.9342684464130832
+Error: Viscount Goderich guess=person gold= confidence=0.7935066245464275
+Error: Wendy O.williams guess=person gold= confidence=0.8007261359487566
+Error: Wild Bill Hickok guess=person gold= confidence=0.926525102134843
+Error: Wilhelm Wirtinger guess=person gold= confidence=0.9998331230088191
+Error: William Buckland guess=person gold= confidence=0.9974022974041626
+Error: William Burnside guess=person gold= confidence=0.9993148745531619
+Error: William Butler Yeats guess=person gold= confidence=0.999913129380277
+Error: William Clifford guess=person gold= confidence=0.9037479356321927
+Error: William D. Phillips guess=person gold= confidence=0.9999802594494143
+Error: William Gladstone guess=person gold= confidence=0.9983050464379775
+Error: William Hamilton guess=person gold= confidence=0.999886130606448
+Error: William Howard Taft guess=person gold= confidence=0.9999994106746732
+Error: William Rankine guess=person gold= confidence=0.9987663502797718
+Error: William Rothenstein guess=person gold= confidence=0.9981667846184752
+Error: William Tecumseh Sherman guess=person gold= confidence=0.9993020101172008
+Error: William Whiston guess=person gold= confidence=0.9969458857548644
+Error: William Winstanley guess=person gold= confidence=0.8559345237018608
+Error: Willis Carrier guess=person gold= confidence=0.9983145264539962
+Error: Yaroslav Lopatynsky guess=place gold= confidence=0.8906790975340276
+Error: Yates Frank guess=person gold= confidence=0.9949182462368262
+Error: Yudell Luke guess=person gold= confidence=0.9936963446139626
+Error: Yulian-Karl Sokhotsky guess=person gold= confidence=0.9997761554098633
+Error: Zacharie Astruc guess=person gold= confidence=0.9383448224873822
+Error: ibn Sina guess=person gold= confidence=0.9997080111956658
+Error: Aberdare guess=movie gold= confidence=0.569953374642532
+Error: Aberdyfi guess=place gold= confidence=0.4617018649763903
+Error: Ahlen guess=place gold= confidence=0.6313784854385933
+Error: Algajola guess=movie gold= confidence=0.46231577773792115
+Error: Allogny guess=place gold= confidence=0.9557436089249516
+Error: Alphen guess=drug gold= confidence=0.9374421454186539
+Error: Altnaharra guess=place gold= confidence=0.9738231274655706
+Error: Ambonnay guess=place gold= confidence=0.8574516641339153
+Error: Arbois guess=place gold= confidence=0.6175323002127321
+Error: Arcadia guess=movie gold= confidence=0.4966150108514613
+Error: Arkansas guess=movie gold= confidence=0.4952384815208337
+Error: Armthorpe guess=place gold= confidence=0.8655566998273423
+Error: Arnhem guess=place gold= confidence=0.9456651902807979
+Error: Ashwell guess=place gold= confidence=0.9750347312590963
+Error: Auvillar guess=place gold= confidence=0.9481458701488363
+Error: Baarn guess=place gold= confidence=0.9765157125359424
+Error: Bad Bentheim guess=place gold= confidence=0.9319016538188267
+Error: Baden-Wuerttemberg guess=place gold= confidence=0.9996015430814735
+Error: Bagshot guess=movie gold= confidence=0.5260947465313722
+Error: Ballymena guess=place gold= confidence=0.9183308579329521
+Error: Balsall Common guess=movie gold= confidence=0.9958662759276901
+Error: Bangor (Wales) guess=place gold= confidence=0.988631056129878
+Error: Barjac guess=place gold= confidence=0.6192254993708963
+Error: Barking and Dagenham guess=place gold= confidence=0.5997257978922603
+Error: Barmouth guess=place gold= confidence=0.9869332397237109
+Error: Barnard Castle guess=place gold= confidence=0.9276205773997077
+Error: Barrack Heights guess=place gold= confidence=0.5957000831020243
+Error: Baud guess=place gold= confidence=0.8284858985731974
+Error: Beers guess=place gold= confidence=0.6053055508763245
+Error: Belfield guess=place gold= confidence=0.9995431451712876
+Error: Bellangry guess=place gold= confidence=0.9233633112594264
+Error: Berrima guess=place gold= confidence=0.9654990498407889
+Error: Betws-y-Coed guess=place gold= confidence=0.49679414681468265
+Error: Bexhill-on-Sea guess=place gold= confidence=0.9903655060506298
+Error: Biberach guess=place gold= confidence=0.9637261359439615
+Error: Bibury guess=place gold= confidence=0.9924783957989912
+Error: Bierton guess=place gold= confidence=0.9982746154848569
+Error: Billericay guess=place gold= confidence=0.9771172537334457
+Error: Bishopton guess=place gold= confidence=0.999918706491414
+Error: Blackburn (Lancs.) guess=place gold= confidence=0.9994061328394821
+Error: Blackwater guess=place gold= confidence=0.551647847259729
+Error: Bollington guess=place gold= confidence=0.9988051426361219
+Error: Bondi Junction guess=place gold= confidence=0.7876497473657667
+Error: Bopfingen guess=place gold= confidence=0.9064468942729302
+Error: Borley guess=place gold= confidence=0.9956522185886131
+Error: Bosnia and Herzegovina guess=movie gold= confidence=0.9947864543792213
+Error: Bournemouth guess=place gold= confidence=0.9958005756621248
+Error: Bradford guess=place gold= confidence=0.9983132807050406
+Error: Branston (Leicestershire) guess=place gold= confidence=0.9999999364789203
+Error: Bridgwater guess=place gold= confidence=0.9950538817675773
+Error: Brighouse guess=place gold= confidence=0.937478143593811
+Error: Brixham guess=place gold= confidence=0.9888760490053662
+Error: Bude guess=place gold= confidence=0.6374913738977462
+Error: Budleigh Salterton guess=place gold= confidence=0.9841569675007203
+Error: Bulgaria guess=movie gold= confidence=0.517476301406018
+Error: Bungwahl guess=place gold= confidence=0.9022414701808242
+Error: Bunnik guess=movie gold= confidence=0.8611662614235162
+Error: Burgh Heath guess=place gold= confidence=0.9922659541116279
+Error: Burgundy guess=place gold= confidence=0.9883180850631755
+Error: Bury St. Edmunds guess=person gold= confidence=0.9733805894328966
+Error: Busby guess=place gold= confidence=0.9190856414016398
+Error: Butzbach guess=place gold= confidence=0.9582210899971869
+Error: Cambodia guess=movie gold= confidence=0.6157280569134644
+Error: Camperdown guess=place gold= confidence=0.7875200597716776
+Error: Canvey Island guess=place gold= confidence=0.9981607921977277
+Error: Carnoux-en-Provence guess=place gold= confidence=0.9991190087908318
+Error: Castlederg guess=place gold= confidence=0.9799421191921088
+Error: Castleford guess=place gold= confidence=0.9987104472897576
+Error: Ceres guess=movie gold= confidence=0.5005992058805389
+Error: Cestas guess=drug gold= confidence=0.4622540318453763
+Error: Challacombe guess=place gold= confidence=0.9767234888377249
+Error: Charlwood guess=place gold= confidence=0.9084606848688421
+Error: Chatsworth guess=place gold= confidence=0.9953432778188414
+Error: Checkendon guess=place gold= confidence=0.860832709798757
+Error: Cheltenham guess=place gold= confidence=0.9965034431759798
+Error: Chesham guess=place gold= confidence=0.9988663178893339
+Error: Chessington guess=place gold= confidence=0.9997017699163082
+Error: Chilton (Durham) guess=place gold= confidence=0.9999977502193301
+Error: Chipping guess=place gold= confidence=0.9945981666268447
+Error: Chorley guess=place gold= confidence=0.9961121574179428
+Error: Chorleywood guess=place gold= confidence=0.9991821818856774
+Error: Churchdown guess=place gold= confidence=0.9953937441974291
+Error: Clare guess=movie gold= confidence=0.7496904542760648
+Error: Claye-Souilly guess=place gold= confidence=0.9026471517023062
+Error: Cleckheaton guess=place gold= confidence=0.9991494647667158
+Error: Cogolin guess=drug gold= confidence=0.729860990732374
+Error: Colmar guess=place gold= confidence=0.6681218899193461
+Error: Colorado guess=drug gold= confidence=0.882524732138934
+Error: Condom guess=movie gold= confidence=0.47663298187534614
+Error: Contamines-Montjoie guess=place gold= confidence=0.9899871478207782
+Error: Cookham guess=place gold= confidence=0.9970270715593607
+Error: Coolongolook guess=place gold= confidence=0.5886082126377657
+Error: Cooranbong guess=place gold= confidence=0.9931910415712066
+Error: Corris guess=person gold= confidence=0.4224016070386873
+Error: Corte guess=drug gold= confidence=0.7856872179339907
+Error: Courbevoie guess=place gold= confidence=0.8637557963098959
+Error: Coverack guess=movie gold= confidence=0.6602383147886774
+Error: Craigavon guess=place gold= confidence=0.983028209737307
+Error: Crawley guess=place gold= confidence=0.9994611874393697
+Error: Crediton guess=place gold= confidence=0.608470998933762
+Error: Crillon le Brave guess=movie gold= confidence=0.6514421300363978
+Error: Crowhurst guess=place gold= confidence=0.998330247401535
+Error: Crowthorne guess=place gold= confidence=0.9991823376750627
+Error: Cudal guess=place gold= confidence=0.6923911050525345
+Error: Deal guess=movie gold= confidence=0.9455586112235057
+Error: Denby Dale guess=person gold= confidence=0.40222332708771824
+Error: Derry guess=place gold= confidence=0.5519819480135859
+Error: Dewsbury guess=place gold= confidence=0.9917835469410526
+Error: Diss guess=movie gold= confidence=0.7218659998938657
+Error: Dodewaard guess=movie gold= confidence=0.7639444742046656
+Error: Dorking guess=place gold= confidence=0.906519142364129
+Error: Downpatrick guess=place gold= confidence=0.7263734644005733
+Error: Driebergen guess=place gold= confidence=0.5587708366380691
+Error: Dromore guess=place gold= confidence=0.6258934807474462
+Error: Dulverton guess=place gold= confidence=0.996900004671201
+Error: Dunblane guess=place gold= confidence=0.7620223506878514
+Error: Dunchurch guess=place gold= confidence=0.9993694160625828
+Error: Dunoon guess=place gold= confidence=0.9358412052622728
+Error: Dunstable guess=place gold= confidence=0.8467045066568596
+Error: Dural guess=drug gold= confidence=0.9904697404687509
+Error: Durham guess=place gold= confidence=0.9907606674642686
+Error: Durrington guess=place gold= confidence=0.9999694748509594
+Error: Edgeworth guess=place gold= confidence=0.9865884601885243
+Error: Ediger guess=person gold= confidence=0.8606967954166783
+Error: Eisenberg guess=place gold= confidence=0.954797768822176
+Error: Elanora Heights guess=person gold= confidence=0.46027294191152174
+Error: Enspijk guess=place gold= confidence=0.8778254206856119
+Error: Epping guess=place gold= confidence=0.7728963046141953
+Error: Erkrath guess=place gold= confidence=0.4666271306420299
+Error: Eversley guess=place gold= confidence=0.9919820841732965
+Error: Evesham guess=place gold= confidence=0.9977303261624978
+Error: Exeter guess=drug gold= confidence=0.4435866309800616
+Error: Eyemouth guess=place gold= confidence=0.9094138632854791
+Error: Fajardo guess=movie gold= confidence=0.7204817032493824
+Error: Faversham guess=place gold= confidence=0.9969793801986248
+Error: Faygate guess=place gold= confidence=0.4877812024500083
+Error: Five Dock guess=movie gold= confidence=0.9857320656182488
+Error: Flaxton guess=place gold= confidence=0.9101744414241232
+Error: Florence Court guess=person gold= confidence=0.9471559230527421
+Error: Forbes guess=place gold= confidence=0.7587895165858809
+Error: Fources guess=place gold= confidence=0.9491566074592221
+Error: Freising guess=movie gold= confidence=0.7194103644603524
+Error: Friesthorpe guess=place gold= confidence=0.709665507938403
+Error: Fritzlar guess=place gold= confidence=0.558382978055946
+Error: Garsington guess=place gold= confidence=0.9997908533268421
+Error: Gartocharn guess=place gold= confidence=0.9895129578174514
+Error: Gateshead guess=place gold= confidence=0.9512329391039964
+Error: Gest? guess=movie gold= confidence=0.6793460749657206
+Error: Giethoorn guess=place gold= confidence=0.9487395139715454
+Error: Girraween guess=place gold= confidence=0.9644938097871969
+Error: Gissing guess=place gold= confidence=0.8888033465111117
+Error: Glengormley guess=place gold= confidence=0.9998689213376802
+Error: Glenorie guess=place gold= confidence=0.986518026095283
+Error: Goffs Oak guess=place gold= confidence=0.4020861380991055
+Error: Gosford guess=place gold= confidence=0.9962894793572855
+Error: Gosforth (Cumbria) guess=place gold= confidence=0.9999986834667742
+Error: Grange-over-Sands guess=place gold= confidence=0.8166520074492793
+Error: Grans guess=place gold= confidence=0.7136458304828791
+Error: Great Bookham guess=place gold= confidence=0.9425208600156832
+Error: Green Point guess=place gold= confidence=0.5742886380256097
+Error: Gross-Gerau guess=place gold= confidence=0.8086522107370928
+Error: Gunning guess=movie gold= confidence=0.5489507269617736
+Error: Haaren guess=place gold= confidence=0.8400740290141757
+Error: Haberfield guess=place gold= confidence=0.9945462152598399
+Error: Haguenau guess=place gold= confidence=0.9946577723192361
+Error: Halfweg guess=place gold= confidence=0.8176179669440962
+Error: Handforth guess=place gold= confidence=0.9994117441658262
+Error: Hannoversch M黱den guess=movie gold= confidence=0.569073712940385
+Error: Harlingen guess=place gold= confidence=0.972413598436345
+Error: Harwich guess=place gold= confidence=0.9864785331342133
+Error: Havant guess=place gold= confidence=0.49398465911783884
+Error: Hawaii guess=place gold= confidence=0.5024079910711868
+Error: Hawarden guess=place gold= confidence=0.9848211800069513
+Error: Hawick guess=place gold= confidence=0.9512083207888007
+Error: Haybes guess=place gold= confidence=0.7937121037495355
+Error: Heathfield (Devon) guess=place gold= confidence=0.9996663794172326
+Error: Hechingen guess=place gold= confidence=0.9956935923776468
+Error: Heddon-on-the-Wall guess=place gold= confidence=0.9999725486832022
+Error: Heidelberg guess=place gold= confidence=0.6252336262921516
+Error: Heidenheim guess=place gold= confidence=0.9926912151680423
+Error: Helston guess=place gold= confidence=0.9849575771967214
+Error: Hemyock guess=movie gold= confidence=0.5780868306347593
+Error: Hexham guess=place gold= confidence=0.9553825794216626
+Error: High Halstow guess=place gold= confidence=0.8220809437790977
+Error: Hilcote guess=drug gold= confidence=0.7880001423189843
+Error: Hof guess=place gold= confidence=0.3323327574686019
+Error: Hoo St. Werburgh guess=place gold= confidence=0.8850478567549216
+Error: Horncastle guess=place gold= confidence=0.998132269332474
+Error: Hornsby guess=place gold= confidence=0.995636697739949
+Error: Houilles guess=place gold= confidence=0.8228263799899282
+Error: Huntly guess=place gold= confidence=0.8827797624473123
+Error: Husborne Crawley guess=place gold= confidence=0.9910995089761667
+Error: India guess=movie gold= confidence=0.6771027668428691
+Error: Irchester guess=place gold= confidence=0.9816872936075116
+Error: Issigeac guess=place gold= confidence=0.6994180271052197
+Error: Ivanovo guess=drug gold= confidence=0.7252608678899258
+Error: Jarrow guess=place gold= confidence=0.5065793898939309
+Error: John o' Groats guess=person gold= confidence=0.9999630190196734
+Error: Joyeuse guess=person gold= confidence=0.7479700999970922
+Error: Julianadorp aan Zee guess=place gold= confidence=0.5360628296975772
+Error: Keighley guess=place gold= confidence=0.9983949053969651
+Error: Kineton guess=place gold= confidence=0.8968112528017561
+Error: King's Lynn guess=movie gold= confidence=0.5062816036778168
+Error: Kingsford guess=place gold= confidence=0.9995665913698747
+Error: Kingsteignton guess=place gold= confidence=0.999957655218192
+Error: Kinnersley guess=place gold= confidence=0.9981630240311724
+Error: Kintore guess=movie gold= confidence=0.8752296170959643
+Error: Kirknewton guess=place gold= confidence=0.9999778345598032
+Error: Knightswood guess=movie gold= confidence=0.5284049869950125
+Error: Krefeld guess=place gold= confidence=0.9418877667561449
+Error: La Grave guess=place gold= confidence=0.9285234470389852
+Error: La Trinit?-sur-Mer guess=place gold= confidence=0.5731756215465641
+Error: Lab鑗e guess=place gold= confidence=0.5620519847120737
+Error: Lahr guess=place gold= confidence=0.7507990123184913
+Error: Lancaster guess=place gold= confidence=0.9780792901027018
+Error: Lapworth guess=place gold= confidence=0.996854575281534
+Error: Larkhall guess=place gold= confidence=0.9953822058846705
+Error: Lealholm guess=place gold= confidence=0.5498407317207981
+Error: Lelystad guess=place gold= confidence=0.8207121691001265
+Error: Lemmer guess=place gold= confidence=0.4869162393963517
+Error: Les Sables-d'Olonne guess=place gold= confidence=0.7426198657137965
+Error: Les Saisies guess=movie gold= confidence=0.9392455126669389
+Error: Libya guess=place gold= confidence=0.5127036544319946
+Error: Liechtenstein guess=place gold= confidence=0.9882731608422691
+Error: Limpsfield guess=place gold= confidence=0.9996951531598539
+Error: Linlithgow guess=place gold= confidence=0.9914384098203547
+Error: Little Haywood guess=place gold= confidence=0.8974229759663264
+Error: Llanfyllin guess=place gold= confidence=0.8716832458972037
+Error: Llangollen guess=place gold= confidence=0.9907302595794936
+Error: Llanrug guess=place gold= confidence=0.9971912277481186
+Error: Lochearnhead guess=place gold= confidence=0.9997289129460325
+Error: Lochem guess=place gold= confidence=0.9583411175152046
+Error: Lohfelden guess=place gold= confidence=0.9993309590914851
+Error: Lorraine guess=place gold= confidence=0.9873711237264585
+Error: Lowdham guess=place gold= confidence=0.9996802539058026
+Error: Lydd guess=place gold= confidence=0.8386724880157063
+Error: Lyon guess=place gold= confidence=0.8535693009069106
+Error: Lytham St. Anne's guess=place gold= confidence=0.8208182954113858
+Error: Madingley guess=place gold= confidence=0.9975055217421083
+Error: Malawi guess=place gold= confidence=0.7386083425400967
+Error: Mali guess=place gold= confidence=0.44002951611814217
+Error: Mandelieu la Napoule guess=movie gold= confidence=0.9965395942170694
+Error: Manly guess=place gold= confidence=0.9417484621253288
+Error: Marazion guess=movie gold= confidence=0.632485163210957
+Error: Market Drayton guess=place gold= confidence=0.9612019231821534
+Error: Marl guess=person gold= confidence=0.5622582189110324
+Error: Marlenheim guess=place gold= confidence=0.9801696294522202
+Error: Melrose guess=drug gold= confidence=0.6557761879568303
+Error: Menerbes guess=movie gold= confidence=0.42358486231985626
+Error: Mettlach guess=place gold= confidence=0.9438301462740947
+Error: Mijoux guess=place gold= confidence=0.727067742971773
+Error: Milton of Campsie guess=person gold= confidence=0.9106646821022933
+Error: Monschau guess=place gold= confidence=0.9029185805443017
+Error: Montmorency guess=place gold= confidence=0.9836345304767511
+Error: Montrouge guess=place gold= confidence=0.7397313918618533
+Error: Moretonhampstead guess=place gold= confidence=0.9999992277872722
+Error: Morley guess=place gold= confidence=0.9955096123465103
+Error: Mortdale guess=place gold= confidence=0.9760451102256177
+Error: Mount Vincent guess=place gold= confidence=0.9718209844623723
+Error: Mousehole guess=place gold= confidence=0.9043206494287157
+Error: Muir of Ord guess=person gold= confidence=0.5561081288782858
+Error: Murmansk guess=movie gold= confidence=0.8364854615865537
+Error: Myanmar guess=drug gold= confidence=0.4525480732471677
+Error: M黱ster guess=place gold= confidence=0.9069309271735699
+Error: Najac guess=movie gold= confidence=0.37878721409866956
+Error: Nancy guess=person gold= confidence=0.6419613049263103
+Error: Naphill guess=place gold= confidence=0.5030760842176214
+Error: Narberth guess=place gold= confidence=0.7642307123021287
+Error: Narromine guess=place gold= confidence=0.5376227948100865
+Error: New Haw guess=place gold= confidence=0.8021371313077578
+Error: New Milton guess=place gold= confidence=0.9990839335565046
+Error: Newbridge on Wye guess=place gold= confidence=0.9966597214617232
+Error: Newport-on-Tay guess=place gold= confidence=0.9997769714946435
+Error: Nieb黮l guess=movie gold= confidence=0.6286950735177897
+Error: Nord-Pas-de-Calais guess=drug gold= confidence=0.6514754541631114
+Error: North Baddesley guess=place gold= confidence=0.9797714326691808
+Error: North Carolina guess=place gold= confidence=0.9681198410596344
+Error: Novgorod guess=place gold= confidence=0.9818802374950232
+Error: Nowra guess=place gold= confidence=0.7710192222682647
+Error: Nyngan guess=place gold= confidence=0.8352933489358046
+Error: Nyons guess=movie gold= confidence=0.5569192357497991
+Error: Oadby guess=place gold= confidence=0.77294205933715
+Error: Obernai guess=place gold= confidence=0.7367614820346383
+Error: Old Warden guess=movie gold= confidence=0.9862467171039876
+Error: Oldbury guess=place gold= confidence=0.9980031403389813
+Error: Omsk guess=place gold= confidence=0.6606867494618391
+Error: Orpington guess=place gold= confidence=0.9994310355000657
+Error: Oundle guess=movie gold= confidence=0.5562684585329325
+Error: Papendrecht guess=place gold= confidence=0.6634025173961791
+Error: Paris guess=movie gold= confidence=0.6866200371201052
+Error: Paterson guess=person gold= confidence=0.46462832857787395
+Error: Pattensen guess=place gold= confidence=0.7310608571273282
+Error: Peebles guess=place gold= confidence=0.8341130734411616
+Error: Pembrey guess=place gold= confidence=0.6284146172726844
+Error: Penarth guess=place gold= confidence=0.9526710568521809
+Error: Pendle Hill guess=place gold= confidence=0.9997132952789957
+Error: Penzance guess=place gold= confidence=0.7283475653125249
+Error: Perm guess=drug gold= confidence=0.9370403171022323
+Error: Pewsey guess=place gold= confidence=0.95092476791575
+Error: Picton guess=place gold= confidence=0.8938529254993848
+Error: Pleasure Point guess=movie gold= confidence=0.5356486875287816
+Error: Poitiers guess=movie gold= confidence=0.5067937703954957
+Error: Ponce guess=place gold= confidence=0.6576233601802329
+Error: Pontefract guess=place gold= confidence=0.7165493643658855
+Error: Port Kembla guess=place gold= confidence=0.9462995381677001
+Error: Portglenone guess=place gold= confidence=0.9806957028350912
+Error: Porthcawl guess=place gold= confidence=0.9985755683634848
+Error: Potsdam guess=movie gold= confidence=0.5821601566782031
+Error: Prescot guess=drug gold= confidence=0.8093055043625353
+Error: Puddletown guess=place gold= confidence=0.963920667669232
+Error: Purmerend guess=place gold= confidence=0.605583151203295
+Error: Quirindi guess=drug gold= confidence=0.5246791796785956
+Error: Rainham (Greater London) guess=place gold= confidence=0.9980365578012743
+Error: Ratingen guess=place gold= confidence=0.9729372940252216
+Error: Redfern guess=place gold= confidence=0.6079994550534246
+Error: Reigate guess=place gold= confidence=0.5966324939281393
+Error: Reims guess=place gold= confidence=0.5814462292908997
+Error: Remseck guess=drug gold= confidence=0.6422260149054624
+Error: Rennes-le-Ch鈚eau guess=place gold= confidence=0.9999945483834045
+Error: Reston guess=place gold= confidence=0.9606027155352613
+Error: Reutlingen guess=place gold= confidence=0.9755668049866487
+Error: Revesby guess=place gold= confidence=0.9375848662910395
+Error: Reynoldston guess=place gold= confidence=0.9971586216352166
+Error: Rhode Island guess=place gold= confidence=0.725218839213833
+Error: Rhyl guess=drug gold= confidence=0.7642508328728949
+Error: Riesa guess=movie gold= confidence=0.29516431569878077
+Error: Rio Blanco guess=person gold= confidence=0.36273592726120646
+Error: Rio Piedras guess=person gold= confidence=0.9223159204726448
+Error: Riverside Park guess=movie gold= confidence=0.8646103475111916
+Error: Rochdale guess=place gold= confidence=0.9682083293680804
+Error: Rooty Hill guess=place gold= confidence=0.9485905482873891
+Error: Rosmalen guess=place gold= confidence=0.9320259717784573
+Error: Rothenburg ob der Tauber guess=person gold= confidence=0.9857350855602386
+Error: Rotherwick guess=place gold= confidence=0.9968007576398852
+Error: Rylstone guess=place gold= confidence=0.8221431952601402
+Error: Saint Vincent and The Grenadines guess=movie gold= confidence=0.9999714538952946
+Error: Saint-Denis guess=place gold= confidence=0.9987650335564561
+Error: Saint-Gilles-Croix-de-Vie guess=place gold= confidence=0.9999993172691347
+Error: Saint-Maur-des-Foss閟 guess=place gold= confidence=0.9999951039269569
+Error: Saint-Porchaire guess=place gold= confidence=0.9996533349432428
+Error: Salzhemmendorf guess=place gold= confidence=0.9416454229803499
+Error: Samara guess=place gold= confidence=0.5872350231037466
+Error: Sao Tome and Principe guess=movie gold= confidence=0.9994857240093044
+Error: Sausset-Les-Pins guess=place gold= confidence=0.9996893963964067
+Error: Schleswig-Holstein guess=place gold= confidence=0.9944740869214632
+Error: Schrobenhausen guess=place gold= confidence=0.9414664874244079
+Error: Schwelm guess=place gold= confidence=0.9733929282467088
+Error: Sch鰊aich guess=place gold= confidence=0.8237556667263786
+Error: Scone guess=drug gold= confidence=0.7764553493906459
+Error: Seaham guess=place gold= confidence=0.9790942009358673
+Error: Sens guess=movie gold= confidence=0.5832601796263747
+Error: Seychelles guess=place gold= confidence=0.7825345000671612
+Error: Shipston on Stour guess=place gold= confidence=0.8466969911338652
+Error: Skipton guess=place gold= confidence=0.9852476618352104
+Error: Sockbridge guess=place gold= confidence=0.9878083007217552
+Error: Solomon Islands guess=movie gold= confidence=0.9400852559965402
+Error: South Stoke guess=place gold= confidence=0.9972803151123871
+Error: Southwark guess=place gold= confidence=0.9957008690053983
+Error: Spean Bridge guess=place gold= confidence=0.9509311275186669
+Error: Spennymoor guess=place gold= confidence=0.7319611411018795
+Error: Sprang-Capelle guess=place gold= confidence=0.9140740831424495
+Error: St. Andrews guess=person gold= confidence=0.9563659921007323
+Error: Stadskanaal guess=place gold= confidence=0.8808868345865786
+Error: Staunton guess=place gold= confidence=0.9981106330284896
+Error: Staveley guess=place gold= confidence=0.9977843399641553
+Error: Stolberg guess=place gold= confidence=0.78658867932306
+Error: Strabane guess=drug gold= confidence=0.8535870171821406
+Error: Strasbourg guess=place gold= confidence=0.9895079113395998
+Error: Strijen guess=place gold= confidence=0.7331192911142607
+Error: Suhl guess=place gold= confidence=0.5505072970412369
+Error: Sutton-on-Hull guess=place gold= confidence=0.9999011768814657
+Error: Swaffham Bulbeck guess=place gold= confidence=0.7381500712696445
+Error: S閦anne guess=place gold= confidence=0.8994172989416277
+Error: Tadcaster guess=place gold= confidence=0.9690261995012164
+Error: Taiwan guess=place gold= confidence=0.9467764568307823
+Error: Talbot Green guess=place gold= confidence=0.7288057647946315
+Error: Terrigal guess=place gold= confidence=0.6327146558919303
+Error: Thornton (Lancashire) guess=place gold= confidence=0.9999903231406221
+Error: Tiverton guess=place gold= confidence=0.9961252439127098
+Error: Todmorden guess=place gold= confidence=0.9908571264376865
+Error: Tollesbury guess=place gold= confidence=0.9944389623875909
+Error: Tomsk guess=place gold= confidence=0.8266549639619564
+Error: Toowoon Bay guess=place gold= confidence=0.9989448560990518
+Error: Travem黱de guess=movie gold= confidence=0.5539486184193865
+Error: Trinidad and Tobago guess=movie gold= confidence=0.8779728130541077
+Error: Turrella guess=place gold= confidence=0.8882559331591247
+Error: Tuvalu guess=drug gold= confidence=0.6523037577737951
+Error: Twente guess=place gold= confidence=0.7123098023870209
+Error: Uithoorn guess=place gold= confidence=0.9835945175982606
+Error: Upminster guess=place gold= confidence=0.9611801186987105
+Error: Upper Bucklebury guess=place gold= confidence=0.9805295615865316
+Error: Usk guess=place gold= confidence=0.4327557706680942
+Error: Val-Thorens guess=place gold= confidence=0.9210312467738886
+Error: Valence guess=place gold= confidence=0.8044369192711903
+Error: Vallery guess=place gold= confidence=0.8135803190091769
+Error: Vauvert guess=place gold= confidence=0.9028575562571829
+Error: Ventabren guess=drug gold= confidence=0.9233602608557001
+Error: Vietnam guess=movie gold= confidence=0.5789864103531832
+Error: Villeneuve guess=place gold= confidence=0.9902080701257555
+Error: Vouziers guess=place gold= confidence=0.8359539077022191
+Error: Wadhurst guess=place gold= confidence=0.9936682585592715
+Error: Walcha guess=place gold= confidence=0.760182230196445
+Error: Waldbronn guess=place gold= confidence=0.8743636383182715
+Error: Wallasey guess=place gold= confidence=0.9966557244054681
+Error: Waltham Abbey guess=place gold= confidence=0.9842853610715944
+Error: Waltham Cross guess=place gold= confidence=0.9868917330202487
+Error: Waratah guess=movie gold= confidence=0.4928988846328385
+Error: Warlingham guess=place gold= confidence=0.9991487708112265
+Error: Warminster guess=place gold= confidence=0.9981795494134397
+Error: Warners Bay guess=place gold= confidence=0.9995709450260766
+Error: Weesp guess=place gold= confidence=0.7380762483111478
+Error: Weiden guess=place gold= confidence=0.929249461506535
+Error: Wellington guess=place gold= confidence=0.9987721914952863
+Error: Welshpool guess=place gold= confidence=0.9967800761729753
+Error: Wentworth guess=place gold= confidence=0.9996844047210259
+Error: West Wickham guess=place gold= confidence=0.9978995329838584
+Error: Westerham guess=place gold= confidence=0.999906938666247
+Error: Westhumble guess=place gold= confidence=0.9997854586504998
+Error: Westward Ho! guess=person gold= confidence=0.831959379940589
+Error: Weybridge guess=place gold= confidence=0.9992745019952669
+Error: Whitby guess=place gold= confidence=0.8846576213873616
+Error: Whitchurch (Hamp.) guess=place gold= confidence=0.9912056373752604
+Error: Whittington guess=place gold= confidence=0.999122218461566
+Error: Wickford guess=place gold= confidence=0.987177911042858
+Error: Wilcannia guess=place gold= confidence=0.4722431325258791
+Error: Willingham guess=place gold= confidence=0.9956783164624605
+Error: Winchelsea guess=place gold= confidence=0.9288667034637922
+Error: Wisbech guess=place gold= confidence=0.9774652573122498
+Error: Wittstock guess=place gold= confidence=0.9891053444390089
+Error: Wollombi guess=place gold= confidence=0.8296252958516811
+Error: Wooburn Green guess=place gold= confidence=0.9893523657415653
+Error: Woodchester guess=place gold= confidence=0.9965873682975878
+Error: Wormley guess=place gold= confidence=0.9984879894064368
+Error: Wrightington Bar guess=place gold= confidence=0.9668815348002543
+Error: Yemen guess=movie gold= confidence=0.3798417489577237
+Error: Zeeland guess=place gold= confidence=0.9105321822075092
+Error: Zhukovsky guess=person gold= confidence=0.9459032740012618
+Error: 'N Sync: 'Ntimate Holiday Special guess=movie gold= confidence=0.999774788988396
+Error: 'N Sync: Live From Madison Square Garden guess=movie gold= confidence=0.9999999612111815
+Error: 0.12h guess=drug gold= confidence=0.6268726034519421
+Error: 007 Racing guess=movie gold= confidence=0.9965867876459534
+Error: 101 Rent Boys guess=movie gold= confidence=0.9992061693648794
+Error: 11th & Congress guess=movie gold= confidence=0.999526729077393
+Error: 1900 USA guess=movie gold= confidence=0.9278233156954145
+Error: 2000 + 1 stigmes guess=movie gold= confidence=0.9999999986327914
+Error: 24fps guess=drug gold= confidence=0.7655634683279711
+Error: 3 Strikes guess=movie gold= confidence=0.9986344693139441
+Error: 3-D Safari guess=movie gold= confidence=0.8929386888210082
+Error: 405 guess=drug gold= confidence=0.9782144921776592
+Error: 41 Shots guess=drug gold= confidence=0.7896562256120766
+Error: 50CC guess=drug gold= confidence=0.979057202720587
+Error: 9-Ball guess=place gold= confidence=0.5392550970232497
+Error: A Festa de Margarette guess=movie gold= confidence=0.9927103908553737
+Error: A Hora Marcada guess=company gold= confidence=0.5530317641952617
+Error: A Killing Frost guess=movie gold= confidence=0.9999950462702007
+Error: A Question of Faith guess=movie gold= confidence=0.9999962654639537
+Error: A Visit from the Sergeant Major with Unintended Consequences guess=movie gold= confidence=1.0
+Error: AFI's 100 Years, 100 Laughs: America's Funniest Movies guess=movie gold= confidence=1.0
+Error: Accidental Detective guess=drug gold= confidence=0.8605805561605543
+Error: Achter gesloten ogen guess=movie gold= confidence=0.9470121633577672
+Error: Acts of Worship guess=movie gold= confidence=0.9922397463997321
+Error: Adventures in Wild California guess=movie gold= confidence=0.9999999888197096
+Error: Aeon - Countdown im All guess=movie gold= confidence=0.9999920379852117
+Error: Aerines siopes guess=movie gold= confidence=0.8844102159890155
+Error: After the Reconciliation guess=movie gold= confidence=0.999999953402541
+Error: Aisha guess=place gold= confidence=0.9642921979097322
+Error: Aitanic guess=movie gold= confidence=0.41331182672188954
+Error: Ajax: De film guess=movie gold= confidence=0.9998801524518043
+Error: Alice guess=movie gold= confidence=0.5226440814152069
+Error: All You Can Eat Pharmacy guess=movie gold= confidence=0.9998263672700203
+Error: Almost Blue guess=movie gold= confidence=0.632084603120542
+Error: Amazon guess=movie gold= confidence=0.5746899958929499
+Error: Amigos X siempre guess=movie gold= confidence=0.987656990528915
+Error: Amor, curiosidad, Prozac y dudas guess=movie gold= confidence=0.9999999802650061
+Error: Am閘ia guess=place gold= confidence=0.3220414741628235
+Error: An American Tail: The Treasure of Manhattan Island guess=movie gold= confidence=0.9999999999999929
+Error: An Extremely Goofy Movie guess=movie gold= confidence=0.9998524363836827
+Error: An Intimate Friendship guess=movie gold= confidence=0.9998173856031132
+Error: An Unkindness of Ravens guess=movie gold= confidence=0.9999621649744458
+Error: Anak guess=movie gold= confidence=0.5945827290851593
+Error: Anatomy of Disgust guess=movie gold= confidence=0.9467537263084767
+Error: Andel Exit guess=movie gold= confidence=0.5193459787697644
+Error: Andrew Dice Clay: Banned for Life guess=movie gold= confidence=0.9992259515322738
+Error: Angels! guess=movie gold= confidence=0.9001067365349761
+Error: Animated Corpse guess=company gold= confidence=0.9899538554090586
+Error: Anna guess=movie gold= confidence=0.6577683838156927
+Error: Anna en Corse guess=movie gold= confidence=0.8590875947729344
+Error: Anne 3 guess=movie gold= confidence=0.9310958448854587
+Error: Apartment Hunting guess=movie gold= confidence=0.7268001952208342
+Error: Army Men: World War guess=movie gold= confidence=0.9999129488646493
+Error: Arrest & Trial guess=drug gold= confidence=0.48939314852188703
+Error: Arvokkaasti guess=movie gold= confidence=0.6642641671676355
+Error: As Ter鏰s da Bailarina Gorda guess=movie gold= confidence=0.78029878559687
+Error: Asociaci髇 Argentina de actores guess=movie gold= confidence=0.9518270065375595
+Error: Ass Lovers guess=movie gold= confidence=0.9837798672416376
+Error: At Any Cost guess=person gold= confidence=0.825308608052161
+Error: At the Height of Summer guess=movie gold= confidence=0.9999999667217102
+Error: Atrav閟 da Janela guess=movie gold= confidence=0.7506309771325225
+Error: Attack of the Killer Hog guess=movie gold= confidence=0.9999993990924765
+Error: Attention Shoppers guess=movie gold= confidence=0.9998877907127359
+Error: Autsch, du Fr鰄liche guess=movie gold= confidence=0.9812032724522833
+Error: Autumn in New York guess=movie gold= confidence=0.9999024424598345
+Error: Avalanche Run guess=movie gold= confidence=0.9999464109449665
+Error: Aviature guess=drug gold= confidence=0.623656557857076
+Error: BWP2 guess=movie gold= confidence=0.42474858304300805
+Error: Babs guess=movie gold= confidence=0.693307680232399
+Error: Baby Blues guess=movie gold= confidence=0.9993083891398674
+Error: Backyard Dogs guess=movie gold= confidence=0.9945771383953668
+Error: Bad Actors guess=movie gold= confidence=0.9805916621140554
+Error: Bad Boy - Rennen am 膓uator guess=movie gold= confidence=0.9999867076421285
+Error: Banditskij Peterburg guess=place gold= confidence=0.956474264437837
+Error: Banjo-Tooie guess=place gold= confidence=0.7079262807324256
+Error: Banqueroute guess=movie gold= confidence=0.7515210639340586
+Error: Barking Dogs Never Bite guess=movie gold= confidence=0.9998393711392546
+Error: Barnard Girls guess=person gold= confidence=0.9068104914457864
+Error: Battery Park guess=place gold= confidence=0.8096256378429455
+Error: BattleBots guess=place gold= confidence=0.8262671505581616
+Error: Battlefield Earth: A Saga for the Year 3000 guess=movie gold= confidence=1.0
+Error: Bavandar guess=place gold= confidence=0.6589320722595299
+Error: Be Cool guess=movie gold= confidence=0.9486409619698868
+Error: Beastie Boys: Video Anthology guess=movie gold= confidence=0.9998321987285402
+Error: Bedazzled guess=movie gold= confidence=0.8624107915351589
+Error: Behind Closed Doors: The Dark Legacy of the Johns Committee guess=movie gold= confidence=1.0
+Error: Behind the Scenes: Road to El Dorado guess=movie gold= confidence=1.0
+Error: Believe guess=place gold= confidence=0.6697246455291967
+Error: Bella Block - Schuld und Liebe guess=movie gold= confidence=0.9999999574006866
+Error: Best guess=movie gold= confidence=0.723770675937236
+Error: Bette guess=movie gold= confidence=0.3825758228045611
+Error: Better Than Sex guess=movie gold= confidence=0.9996815891315818
+Error: Beyond the Ocean guess=movie gold= confidence=0.9999999785284397
+Error: Bhai Thakur guess=movie gold= confidence=0.775881400730075
+Error: Billet-doux guess=place gold= confidence=0.989896973312817
+Error: Bio-Cops guess=drug gold= confidence=0.8669198191080439
+Error: Bla, bla, bla guess=movie gold= confidence=0.9999768397404744
+Error: Black Cocksmokers guess=movie gold= confidence=0.9999510147502709
+Error: Black Panty Chronicals 9 guess=movie gold= confidence=0.9998731997065806
+Error: Black Widow guess=movie gold= confidence=0.9942673029949696
+Error: Blister guess=place gold= confidence=0.9226214021047587
+Error: Blondine sucht Million鋜 f黵s Leben guess=movie gold= confidence=0.9999999481574391
+Error: Blood guess=movie gold= confidence=0.6785388656860156
+Error: Blue August guess=movie gold= confidence=0.8603566920006017
+Error: Blue End guess=movie gold= confidence=0.8277916423699517
+Error: Blues mrtv閔o muze guess=movie gold= confidence=0.9999946999964718
+Error: Bombshell guess=place gold= confidence=0.9168760153638602
+Error: Bone guess=drug gold= confidence=0.34855154825740525
+Error: Bonhoeffer - Die letzte Stufe guess=movie gold= confidence=0.9999999476837451
+Error: Booty Talk 20: Super Fine Sistas! guess=movie gold= confidence=0.9999999963847621
+Error: Boris guess=person gold= confidence=0.45958864431499935
+Error: Boris e Jeremias guess=person gold= confidence=0.6261670694716739
+Error: Born to Be King guess=movie gold= confidence=0.9990080880612792
+Error: Brat 2 guess=movie gold= confidence=0.8404947164155002
+Error: Brokeback Mountain guess=place gold= confidence=0.8313836758255969
+Error: Bronx-Barb鑣 guess=drug gold= confidence=0.9848122804176658
+Error: Brothers guess=movie gold= confidence=0.7632521558300238
+Error: Brottsv錱 guess=place gold= confidence=0.5586515705292893
+Error: Burnside guess=place gold= confidence=0.9708564717015515
+Error: Buttman's Anal Divas guess=movie gold= confidence=0.9999993877942588
+Error: Buttwoman vs. Buttwoman guess=movie gold= confidence=0.9149140864657006
+Error: Bu駏el en Hollywood guess=movie gold= confidence=0.9999697439055669
+Error: By Player guess=movie gold= confidence=0.9532047794735148
+Error: Bzz guess=movie gold= confidence=0.4134396080307231
+Error: Cabecita guess=movie gold= confidence=0.8999536464609414
+Error: Cabin Fever guess=person gold= confidence=0.7829187735012955
+Error: Camera Obscura guess=movie gold= confidence=0.996926312124798
+Error: Campos sagrados guess=movie gold= confidence=0.9945996061313753
+Error: Canada: A People's History guess=movie gold= confidence=0.9999999899591678
+Error: Cantamos contigo guess=movie gold= confidence=0.9798722498594702
+Error: Capitanes de abril guess=movie gold= confidence=0.9934893177558466
+Error: Caracas amor a muerte guess=movie gold= confidence=0.9999940232685199
+Error: Caribbean Undercover guess=movie gold= confidence=0.9496162234536178
+Error: Carnage Road guess=movie gold= confidence=0.9713671198798413
+Error: Cashier Wants to Go to the Seaside guess=movie gold= confidence=0.9999999999998508
+Error: Castaway 2000 guess=movie gold= confidence=0.9999694415840573
+Error: Catastrophe guess=drug gold= confidence=0.8659271582463549
+Error: Cathedral Rock guess=movie gold= confidence=0.9962154924535666
+Error: Cecilia guess=drug gold= confidence=0.42840210263639783
+Error: Chameleon 3: Dark Angel guess=movie gold= confidence=0.99999918780435
+Error: Charge! guess=movie gold= confidence=0.8841668351447379
+Error: Chasing the Big Ones 3 guess=movie gold= confidence=0.9999999987875157
+Error: Cherry Hills guess=place gold= confidence=0.9855747481536897
+Error: Chez moi guess=movie gold= confidence=0.9876507000278975
+Error: Chi chung sze loi liu guess=movie gold= confidence=0.9999410143480078
+Error: Chillin' with Jake Steed's Freaks Whoes & Flows 21 guess=movie gold= confidence=0.9999999999994671
+Error: Chuck guess=movie gold= confidence=0.5140456575385636
+Error: Cinderella guess=drug gold= confidence=0.33663892936144035
+Error: Citizen James guess=person gold= confidence=0.9952617244479423
+Error: Ciudad de M guess=movie gold= confidence=0.8760089559392304
+Error: Cizinci v case guess=movie gold= confidence=0.6464282044526852
+Error: Class of Nuke 'Em High IV guess=movie gold= confidence=0.6834856293727055
+Error: Clerks: The Animated Series guess=movie gold= confidence=0.9999999145014088
+Error: Clothesline Patch guess=movie gold= confidence=0.6315374703088334
+Error: Cocozza's Way guess=movie gold= confidence=0.9998569141623324
+Error: Code Unknown: Incomplete Tales of Several Journeys guess=movie gold= confidence=0.9999999978290184
+Error: Conamara guess=place gold= confidence=0.4359815769911234
+Error: Condenado ? Liberdade guess=movie gold= confidence=0.999986270851518
+Error: Confessions of a Head Hunter guess=movie gold= confidence=0.9999814526839746
+Error: Cool Women guess=movie gold= confidence=0.9949140982289618
+Error: Couch Taters guess=movie gold= confidence=0.9865377055804759
+Error: Could Be Worse! guess=movie gold= confidence=0.9978836719589282
+Error: Counting Days guess=movie gold= confidence=0.9999070049026427
+Error: Cremains guess=place gold= confidence=0.9867200464180373
+Error: Criminal Instincts guess=drug gold= confidence=0.5024251158717651
+Error: Curiosity & the Cat guess=movie gold= confidence=0.9999999474055143
+Error: Cursed guess=place gold= confidence=0.7918861362742917
+Error: Curtain Call guess=person gold= confidence=0.4130471912618819
+Error: CyberCrime guess=movie gold= confidence=0.866844590635335
+Error: C閟ar guess=place gold= confidence=0.37885128989767813
+Error: D-dag - Instrukt鴕ene guess=movie gold= confidence=0.9991480320661325
+Error: D.C. guess=drug gold= confidence=0.8613751457391785
+Error: Da Hip Hop Witch guess=person gold= confidence=0.9760960168240571
+Error: Dada Sahib guess=person gold= confidence=0.7754543967157995
+Error: Dakhtaran-e Khorshid guess=person gold= confidence=0.6866000678721632
+Error: Daleko od okna guess=movie gold= confidence=0.9969673329822816
 Error: Dalheim guess=place gold= confidence=0.8916263863796478
 Error: Dalziel and Pascoe: Above the Law guess=movie gold= confidence=0.9999999999953175
 Error: Dalziel and Pascoe: Cunning Old Fox guess=movie gold= confidence=0.9999999575455272
@@ -28,26 +1847,26 @@ Error: Demasiado amor guess=movie gold= confidence=0.9947621119246495
 Error: Denton Meets Ian Thorpe guess=company gold= confidence=0.5084772981460977
 Error: Der Boxprinz guess=movie gold= confidence=0.8696042429584193
 Error: Der Kleine Lord - Retter in der Not guess=movie gold= confidence=0.9999989899614141
-Error: Der König tanzt guess=movie gold= confidence=0.9989656553134596
-Error: Der Millionär und die Stripperin guess=movie gold= confidence=0.9999999474536891
+Error: Der K鰊ig tanzt guess=movie gold= confidence=0.9989656553134596
+Error: Der Million鋜 und die Stripperin guess=movie gold= confidence=0.9999999474536891
 Error: Det Nya landet guess=movie gold= confidence=0.9995028521527836
 Error: Detector guess=drug gold= confidence=0.6112581256256391
 Error: Deus Jr. guess=person gold= confidence=0.9996492313006325
 Error: Dhai Akshar Prem Ke guess=person gold= confidence=0.9105099360346832
 Error: Diary of Lust guess=movie gold= confidence=0.9880708743843117
 Error: Die Biester guess=movie gold= confidence=0.9996813941273455
-Error: Die Blutgräfin guess=movie gold= confidence=0.9999715012220239
+Error: Die Blutgr鋐in guess=movie gold= confidence=0.9999715012220239
 Error: Die Einsamkeit der Krokodile guess=movie gold= confidence=0.999979303199889
 Error: Die Insel der Vergessenen guess=movie gold= confidence=0.9999674069466138
 Error: Die Nacht der Engel guess=movie gold= confidence=0.9999647996536357
 Error: Die Spur meiner Tochter guess=movie gold= confidence=0.9999997111985293
-Error: Die Zehn Gebote der Kreativität guess=movie gold= confidence=0.9999977514536253
+Error: Die Zehn Gebote der Kreativit鋞 guess=movie gold= confidence=0.9999977514536253
 Error: Dinner for Two guess=movie gold= confidence=0.9999286641624828
-Error: Distinctii militare românesti guess=movie gold= confidence=0.9982661624122078
+Error: Distinctii militare rom鈔esti guess=movie gold= confidence=0.9982661624122078
 Error: Divertimento guess=movie gold= confidence=0.9625266974519737
 Error: Divided We Fall guess=movie gold= confidence=0.9963848699462328
 Error: Dixie Chicks On the Fly guess=movie gold= confidence=0.9999951430412573
-Error: Diástole y sístole guess=movie gold= confidence=0.9897297034349771
+Error: Di醩tole y s韘tole guess=movie gold= confidence=0.9897297034349771
 Error: Djomeh guess=movie gold= confidence=0.8879799564752747
 Error: Dog Food guess=movie gold= confidence=0.9485565751386805
 Error: Dogme # 16 - Bad Actors guess=movie gold= confidence=0.9999918160008198
@@ -61,31 +1880,31 @@ Error: Donna Leon - Vendetta guess=movie gold= confidence=0.803716100120372
 Error: Down From the Mountain guess=movie gold= confidence=0.9999988010169869
 Error: Down to You guess=movie gold= confidence=0.9999995769274423
 Error: Downpour guess=place gold= confidence=0.9666557250068776
-Error: Dr Lucille - Un rêve pour la vie guess=movie gold= confidence=0.9999983703798092
+Error: Dr Lucille - Un r陃e pour la vie guess=movie gold= confidence=0.9999983703798092
 Error: Dr. T & the Women guess=movie gold= confidence=0.9999999355801407
 Error: Dragon Ball Z: The Movie - The World's Strongest guess=movie gold= confidence=0.9999999999999929
 Error: Dragonriders of Pern guess=person gold= confidence=0.9337633573139048
 Error: Drainiac! guess=place gold= confidence=0.7211715387509359
 Error: Drawn from Life guess=movie gold= confidence=0.9997436589137827
 Error: Driver 2 guess=movie gold= confidence=0.882838483605731
-Error: Dubbel-åttan guess=drug gold= confidence=0.4942205853613515
+Error: Dubbel-錿tan guess=drug gold= confidence=0.4942205853613515
 Error: Dum guess=drug gold= confidence=0.5507756507114969
 Error: D?-me Luz guess=movie gold= confidence=0.8946414005283274
 Error: ECW: Anarchy Rulz guess=movie gold= confidence=0.995017466272045
 Error: East of West guess=place gold= confidence=0.7478960488156123
 Error: Eerie Valley Appointment guess=person gold= confidence=0.6491236781838894
 Error: Ein Apartment zum Verlieben guess=movie gold= confidence=0.9999992964804078
-Error: Ein Lasterhaftes Pärchen guess=movie gold= confidence=0.9883804233672485
+Error: Ein Lasterhaftes P鋜chen guess=movie gold= confidence=0.9883804233672485
 Error: Ein Mensch wie Dieter - Golzower guess=movie gold= confidence=0.9999224285214308
 Error: Ein Palast und seine Republik guess=movie gold= confidence=0.9999999835028889
 Error: El Astillero guess=movie gold= confidence=0.9601166058436107
 Error: El Beso que me diste guess=movie gold= confidence=0.9999998958946908
 Error: El Irrigador guess=movie gold= confidence=0.6126422811192103
 Error: Elisas univers guess=movie gold= confidence=0.9866498854641619
-Error: Elixir, édition spéciale guess=movie gold= confidence=0.9999352760891727
+Error: Elixir, 閐ition sp閏iale guess=movie gold= confidence=0.9999352760891727
 Error: Ellas, inocentes o culpables guess=movie gold= confidence=0.9999274348280801
 Error: Enas ki enas guess=movie gold= confidence=0.9919999598356645
-Error: Enfoirés en 2000 guess=movie gold= confidence=0.9999994218207393
+Error: Enfoir閟 en 2000 guess=movie gold= confidence=0.9999994218207393
 Error: Enter guess=place gold= confidence=0.4179344950688634
 Error: Entertainment Life guess=movie gold= confidence=0.9150887239172572
 Error: Entscheidung seines Lebens guess=movie gold= confidence=0.999977203372987
@@ -95,21 +1914,21 @@ Error: Es geht nicht immer nur um Sex guess=movie gold= confidence=0.99999999921
 Error: Escaflowne guess=movie gold= confidence=0.944602785782293
 Error: Eugenie Sandler P.I. guess=person gold= confidence=0.9216809246321894
 Error: Euro Angels 25: Budapest Booty Fest guess=movie gold= confidence=0.9999999397557193
-Error: Eva & Adam - fyra födelsedagar och ett fiasko guess=movie gold= confidence=0.9999998864750979
+Error: Eva & Adam - fyra f鰀elsedagar och ett fiasko guess=movie gold= confidence=0.9999998864750979
 Error: Extremism Breaks My Balls guess=movie gold= confidence=0.9999970167665496
 Error: FDS guess=drug gold= confidence=0.7658318861545033
-Error: Faites comme si je n'étais pas l? guess=movie gold= confidence=0.9999999871445483
+Error: Faites comme si je n'閠ais pas l? guess=movie gold= confidence=0.9999999871445483
 Error: Fallout Tactics: Brotherhood of Steel guess=movie gold= confidence=0.9999999996562359
 Error: Family Pack guess=movie gold= confidence=0.9678038163675808
 Error: Fatboy Slim and Macy Gray: Demons guess=movie gold= confidence=0.9997934844035727
-Error: Façade guess=movie gold= confidence=0.7266647502967787
+Error: Fa鏰de guess=movie gold= confidence=0.7266647502967787
 Error: Felix and Lola guess=movie gold= confidence=0.8823733161092686
 Error: Ferien in der Heimat guess=movie gold= confidence=0.9999205594973697
-Error: Ferm? pour rénovations guess=movie gold= confidence=0.9999087948690716
+Error: Ferm? pour r閚ovations guess=movie gold= confidence=0.9999087948690716
 Error: Fetish Fanatics #14: Girls Who Were Porn's 1st Superstars guess=movie gold= confidence=0.9999999999987352
-Error: Feu: L'énergie guess=movie gold= confidence=0.9942737780632682
+Error: Feu: L'閚ergie guess=movie gold= confidence=0.9942737780632682
 Error: Fifteen Minutes guess=movie gold= confidence=0.9842718676405233
-Error: Finar? tirminaetôru guess=movie gold= confidence=0.9933917516224087
+Error: Finar? tirminaet魊u guess=movie gold= confidence=0.9933917516224087
 Error: Fire-Eater guess=drug gold= confidence=0.46669234640436885
 Error: Fish guess=place gold= confidence=0.4999759111226484
 Error: Fisimatenten guess=movie gold= confidence=0.7558997642039482
@@ -120,7 +1939,7 @@ Error: Flight of the Reindeer guess=movie gold= confidence=0.9999999997592965
 Error: Forensic Files guess=movie gold= confidence=0.9741493437762414
 Error: Forever Yours guess=movie gold= confidence=0.9988245927596163
 Error: Forgive and Forget guess=movie gold= confidence=0.9982512124912581
-Error: Fort Boyard - Az Eröd guess=movie gold= confidence=0.9965560097551155
+Error: Fort Boyard - Az Er鰀 guess=movie gold= confidence=0.9965560097551155
 Error: Forty Years On Coronation Street guess=movie gold= confidence=0.9991689140759686
 Error: Frank Herbert's Dune guess=person gold= confidence=0.9348120242297715
 Error: Frankie Goes to Hollywood: Hard On guess=movie gold= confidence=0.9991858806820951
@@ -140,7 +1959,7 @@ Error: Gegenseitiges Beobachten: Handy guess=movie gold= confidence=0.9999546732
 Error: George Benson: Absolutely Live guess=movie gold= confidence=0.999866696764157
 Error: Georgian Grapes guess=person gold= confidence=0.936801310197277
 Error: Gerry Humphreys: The Loved One guess=movie gold= confidence=0.9999999974588931
-Error: Gespräch im Gebirg guess=movie gold= confidence=0.9651873591573126
+Error: Gespr鋍h im Gebirg guess=movie gold= confidence=0.9651873591573126
 Error: Ghosthunter guess=place gold= confidence=0.5743322030017725
 Error: Gilligan's Island: The E! True Hollywood Story guess=movie gold= confidence=1.0
 Error: Ginostra guess=drug gold= confidence=0.5392150146948872
@@ -156,7 +1975,7 @@ Error: Granturismo guess=place gold= confidence=0.6065568154156742
 Error: Great Idea guess=movie gold= confidence=0.5008267079998464
 Error: Grind Session guess=movie gold= confidence=0.9915129853038899
 Error: Grosse Freiheit - Kleine Freiheit guess=movie gold= confidence=0.9974276713181651
-Error: Großstadtträume guess=place gold= confidence=0.7841651860662431
+Error: Gro遱tadttr鋟me guess=place gold= confidence=0.7841651860662431
 Error: Haboleshet Hokeret guess=movie gold= confidence=0.7217350223685379
 Error: Half-Life: Counter-Strike guess=movie gold= confidence=0.9999709021947174
 Error: Halfway There guess=movie gold= confidence=0.6678767644703638
@@ -165,7 +1984,7 @@ Error: Happy Man guess=movie gold= confidence=0.9998651209815191
 Error: Hard Boiled Egg guess=person gold= confidence=0.512461616892651
 Error: Harem of Madame Osmane guess=movie gold= confidence=0.9991045011657981
 Error: Harikomi guess=movie gold= confidence=0.6571783824328445
-Error: Hassel - Förgörarna guess=movie gold= confidence=0.9075475912046848
+Error: Hassel - F鰎g鰎arna guess=movie gold= confidence=0.9075475912046848
 Error: Head Cheerleader Dead Cheerleader guess=movie gold= confidence=0.999999918306212
 Error: Heimatgeschichten - O Tannenbaum guess=movie gold= confidence=0.9999945332048699
 Error: Helicopter guess=movie gold= confidence=0.4598515557276654
@@ -183,8 +2002,8 @@ Error: Hotaru guess=place gold= confidence=0.6087660603038251
 Error: Hotellet guess=movie gold= confidence=0.8903855567616821
 Error: House of Luk guess=movie gold= confidence=0.9973934731034806
 Error: Humbert guess=place gold= confidence=0.9361593566994939
-Error: Hånden p? hjertet guess=movie gold= confidence=0.9998500230645135
-Error: Höllische Nachbarn - Chaos im Hotel guess=movie gold= confidence=0.9999998520576593
+Error: H錸den p? hjertet guess=movie gold= confidence=0.9998500230645135
+Error: H鰈lische Nachbarn - Chaos im Hotel guess=movie gold= confidence=0.9999998520576593
 Error: I Know I'll See Your Face Again guess=movie gold= confidence=0.9999878783923719
 Error: I Prefer the Sound of the Sea guess=movie gold= confidence=0.9999999999999467
 Error: I Spike guess=person gold= confidence=0.5016293794501737
@@ -197,10 +2016,10 @@ Error: In Flagrante guess=movie gold= confidence=0.9993100506177627
 Error: In goede aarde: Yesterday guess=movie gold= confidence=0.9999999997203872
 Error: In the Wings guess=movie gold= confidence=0.9999999988681232
 Error: Indifference guess=place gold= confidence=0.651239492510409
-Error: Indépendance Cha Cha guess=person gold= confidence=0.5903813107460851
+Error: Ind閜endance Cha Cha guess=person gold= confidence=0.5903813107460851
 Error: Initiations 2 guess=movie gold= confidence=0.9999669026875724
 Error: Innocents guess=movie gold= confidence=0.9687626328709085
-Error: Inséparables guess=movie gold= confidence=0.7856236285511011
+Error: Ins閜arables guess=movie gold= confidence=0.7856236285511011
 Error: Intimate Portrait: Janis Joplin guess=movie gold= confidence=0.9999998563042919
 Error: Intimate Portrait: Madeline Kahn guess=movie gold= confidence=0.9999999996657323
 Error: Inventario balcanico guess=movie gold= confidence=0.9979646287488825
@@ -213,7 +2032,7 @@ Error: John Henry guess=person gold= confidence=0.9999993942239614
 Error: John and Yoko's Year of Peace guess=movie gold= confidence=0.9999990225676231
 Error: Joining the Dots guess=movie gold= confidence=0.9999983125000426
 Error: Jojo la frite guess=movie gold= confidence=0.9912403373497269
-Error: Joyeux Noël, Rachid guess=movie gold= confidence=0.9941263031690711
+Error: Joyeux No雔, Rachid guess=movie gold= confidence=0.9941263031690711
 Error: Julien l'apprenti guess=movie gold= confidence=0.9945361162837909
 Error: Jungle guess=place gold= confidence=0.7214252084217129
 Error: Junk n da Trunk guess=movie gold= confidence=0.8576553944423847
@@ -227,23 +2046,23 @@ Error: Kingdom of Poet O guess=movie gold= confidence=0.9999779303886267
 Error: Kippour guess=place gold= confidence=0.8849595581686716
 Error: Kiri Maori guess=person gold= confidence=0.9204575992941667
 Error: Kleistoi dromoi guess=movie gold= confidence=0.9951921759792363
-Error: Komédiások guess=movie gold= confidence=0.6672037121982863
+Error: Kom閐i醩ok guess=movie gold= confidence=0.6672037121982863
 Error: Krajinka guess=place gold= confidence=0.44199057291165744
 Error: Kunwara guess=place gold= confidence=0.5998333705493013
 Error: Kurosufai? guess=movie gold= confidence=0.6163798596790069
 Error: Kurukshetra guess=place gold= confidence=0.802389827320622
 Error: L'Amour, l'argent, l'amour guess=movie gold= confidence=0.9999997966171883
-Error: L'Attrape-rêves guess=drug gold= confidence=0.4061963721355525
+Error: L'Attrape-r陃es guess=drug gold= confidence=0.4061963721355525
 Error: La Confusion des genres guess=movie gold= confidence=0.9998202918414801
 Error: La Fausse suivante guess=movie gold= confidence=0.9998354976336309
-Error: La Laïque guess=place gold= confidence=0.5726291967634471
+Error: La La飍ue guess=place gold= confidence=0.5726291967634471
 Error: La Moderna poesia guess=movie gold= confidence=0.9999090095410865
 Error: La Pomme, la figue et l'amande guess=movie gold= confidence=0.9999999999998614
 Error: La Precisione del caso guess=movie gold= confidence=0.9999313267927253
 Error: La Proc guess=movie gold= confidence=0.8196499961218685
 Error: La Revancha guess=movie gold= confidence=0.6104553518528353
 Error: La Traviata ? Paris guess=movie gold= confidence=0.9999710385731143
-Error: La Vache et le président guess=movie gold= confidence=0.9999999990508108
+Error: La Vache et le pr閟ident guess=movie gold= confidence=0.9999999990508108
 Error: La Villa guess=place gold= confidence=0.8831238722217639
 Error: La bloc oamenii mor dupa muzica guess=movie gold= confidence=0.9999999899630616
 Error: Lafanmi Selavi guess=person gold= confidence=0.7849913840495709
@@ -262,17 +2081,17 @@ Error: Le Harem de Mme Osmane guess=movie gold= confidence=0.9927310285057319
 Error: Le Larbin guess=place gold= confidence=0.7968551809587047
 Error: Le Pont du trieur guess=movie gold= confidence=0.986725462355283
 Error: Le Secret guess=movie gold= confidence=0.9996909652737673
-Error: Le Vélo de Ghislain Lambert guess=person gold= confidence=0.5377254107806698
+Error: Le V閘o de Ghislain Lambert guess=person gold= confidence=0.5377254107806698
 Error: Leg Up guess=movie gold= confidence=0.9814939399443858
 Error: Legacy of a Kidnapping: Lindbergh and the Triumph of the Tabloids guess=movie gold= confidence=1.0
 Error: Les Autres filles guess=movie gold= confidence=0.9874445625197263
 Error: Les Belles histoires des Pays-d'en-Haut guess=movie gold= confidence=0.9999929293803902
 Error: Les Portes de la gloire guess=movie gold= confidence=0.9999847555749787
-Error: Les Soeurs Lumière guess=movie gold= confidence=0.9518554426766981
-Error: Les Yeux fermés guess=movie gold= confidence=0.9919789996786147
+Error: Les Soeurs Lumi鑢e guess=movie gold= confidence=0.9518554426766981
+Error: Les Yeux ferm閟 guess=movie gold= confidence=0.9919789996786147
 Error: Lewd Conduct 9 guess=movie gold= confidence=0.990962798281006
 Error: Leyendas de fuego guess=movie gold= confidence=0.999097122220161
-Error: Leçons de ténèbres guess=movie gold= confidence=0.9988059883139402
+Error: Le鏾ns de t閚鑒res guess=movie gold= confidence=0.9988059883139402
 Error: Lian zhan chongsheng guess=movie gold= confidence=0.695953966962673
 Error: LiebesLuder guess=movie gold= confidence=0.7548366018703946
 Error: Lies... In Love guess=movie gold= confidence=0.9999999994596322
@@ -291,7 +2110,7 @@ Error: Lucky 13 guess=movie gold= confidence=0.9816484804424881
 Error: Luftpiraten - 113 Passagiere in Todesangst guess=movie gold= confidence=0.9999999999769003
 Error: Luna salvaje guess=movie gold= confidence=0.9987822070817987
 Error: Luz guess=place gold= confidence=0.4906453346749486
-Error: Lázaro de Tormes guess=movie gold= confidence=0.6278169929599386
+Error: L醶aro de Tormes guess=movie gold= confidence=0.6278169929599386
 Error: M. zkt. vr. guess=person gold= confidence=0.9775371531854513
 Error: Mabrouk Again guess=movie gold= confidence=0.9845095147451656
 Error: Maestrale guess=movie gold= confidence=0.4133456419311436
@@ -305,7 +2124,7 @@ Error: Masked Rider Kuuga guess=person gold= confidence=0.569663273280061
 Error: Mayhem guess=place gold= confidence=0.8579067531105641
 Error: Me Jane guess=movie gold= confidence=0.9999543377091019
 Error: Mega Man X5 guess=movie gold= confidence=0.9531852743627336
-Error: Mein Leben gehört mir guess=movie gold= confidence=0.9999960057763364
+Error: Mein Leben geh鰎t mir guess=movie gold= confidence=0.9999960057763364
 Error: Men of Honor guess=movie gold= confidence=0.9812836831460343
 Error: Menunggu pelangi guess=movie gold= confidence=0.9913882029509763
 Error: Meseaut? guess=movie gold= confidence=0.6503563709676302
@@ -354,7 +2173,7 @@ Error: Nova: Lost on Everest guess=movie gold= confidence=0.9999969273229334
 Error: Now or Never guess=movie gold= confidence=0.9999627117359461
 Error: Numero Bruno guess=person gold= confidence=0.5018247228901251
 Error: Nutty Professor II: The Klumps guess=movie gold= confidence=0.9999996239620682
-Error: Når mørket er forbi guess=movie gold= confidence=0.9968910932493658
+Error: N錼 m鴕ket er forbi guess=movie gold= confidence=0.9968910932493658
 Error: O Delfim guess=movie gold= confidence=0.9256380890776998
 Error: O Fantasma guess=movie gold= confidence=0.9992700413131892
 Error: O Fato guess=movie gold= confidence=0.9959183146145848
@@ -370,16 +2189,16 @@ Error: Open Return guess=movie gold= confidence=0.9305687538928065
 Error: Open Wide and Say Ahh! 6 guess=movie gold= confidence=0.9999820730682744
 Error: Opening the Tombs of the Golden Mummies: Live guess=movie gold= confidence=1.0
 Error: Ordeals of Love on the Great Lakes guess=movie gold= confidence=0.9999999999944258
-Error: Orgelkonspiratörerna guess=movie gold= confidence=0.997504320939498
+Error: Orgelkonspirat鰎erna guess=movie gold= confidence=0.997504320939498
 Error: Orientations: Chris Doyle - Stirred But Not Shaken guess=movie gold= confidence=0.9999958601379434
 Error: Os Acrobatas da Pedra Rolada guess=person gold= confidence=0.5156336174422412
-Error: Os Três Zuretas guess=movie gold= confidence=0.7196054173869691
+Error: Os Tr阺 Zuretas guess=movie gold= confidence=0.7196054173869691
 Error: Osobennosti natsionalnoj okhoty v zimnij period guess=movie gold= confidence=0.9999999585256463
 Error: Other Girls guess=movie gold= confidence=0.8172979920758853
 Error: Our Journey guess=movie gold= confidence=0.6019113004573421
 Error: Our Song guess=movie gold= confidence=0.9991551478688956
 Error: Our Years guess=movie gold= confidence=0.9948718597982377
-Error: Ouvrières du monde guess=movie gold= confidence=0.9953456808645371
+Error: Ouvri鑢es du monde guess=movie gold= confidence=0.9953456808645371
 Error: Pajama Party guess=movie gold= confidence=0.9415246980926134
 Error: Palavra e Utopia guess=movie gold= confidence=0.9995529201169681
 Error: Pandaemonium guess=movie gold= confidence=0.4271594005751933
@@ -389,8 +2208,8 @@ Error: Peepers guess=movie gold= confidence=0.7532234589430438
 Error: Peroxide Passion guess=movie gold= confidence=0.9788382212866408
 Error: Persian Series #6 guess=movie gold= confidence=0.9925144908453121
 Error: Persian Series #7 guess=movie gold= confidence=0.9934736693240873
-Error: Pesärikko guess=movie gold= confidence=0.7833060056354395
-Error: Petite chérie guess=movie gold= confidence=0.9222471511969335
+Error: Pes鋜ikko guess=movie gold= confidence=0.7833060056354395
+Error: Petite ch閞ie guess=movie gold= confidence=0.9222471511969335
 Error: Pettson och Findus - Kattonauten guess=movie gold= confidence=0.7298641985613251
 Error: Phones guess=movie gold= confidence=0.625832329310998
 Error: Pieni pyhiinvaellus guess=movie gold= confidence=0.6891335920133916
@@ -398,8 +2217,8 @@ Error: Plain Love III guess=movie gold= confidence=0.6693205447941255
 Error: Plaits guess=movie gold= confidence=0.8081057945379261
 Error: Plastic Castles guess=movie gold= confidence=0.9097021174735236
 Error: Plugged In guess=movie gold= confidence=0.9994143331501187
-Error: Pokémon: The Movie 2000 guess=movie gold= confidence=1.0
-Error: Pokémon: Vol. 18: Water Blast guess=movie gold= confidence=0.999999999702549
+Error: Pok閙on: The Movie 2000 guess=movie gold= confidence=1.0
+Error: Pok閙on: Vol. 18: Water Blast guess=movie gold= confidence=0.999999999702549
 Error: Polizeiruf 110 - Bruderliebe guess=movie gold= confidence=0.999999999304297
 Error: Polizeiruf 110 - La Paloma guess=movie gold= confidence=0.9999999981807832
 Error: Pop Beat Killers guess=movie gold= confidence=0.9992499806938243
@@ -414,8 +2233,8 @@ Error: Proof of Life guess=movie gold= confidence=0.9999713912201394
 Error: Protagonisti, i diritti del '900 guess=movie gold= confidence=0.9999999277639473
 Error: Public Canings guess=movie gold= confidence=0.622635145400925
 Error: Putting It Together guess=movie gold= confidence=0.9999151687566352
-Error: Páratlan guess=place gold= confidence=0.8810282274082979
-Error: Quand j'étais petit guess=movie gold= confidence=0.9999670208844533
+Error: P醨atlan guess=place gold= confidence=0.8810282274082979
+Error: Quand j'閠ais petit guess=movie gold= confidence=0.9999670208844533
 Error: Queens for a Night guess=movie gold= confidence=0.9999999359893883
 Error: Quotation Marks guess=movie gold= confidence=0.9390428032936026
 Error: RLH guess=drug gold= confidence=0.6090608789894976
@@ -464,7 +2283,7 @@ Error: Sciography guess=drug gold= confidence=0.8089764107602456
 Error: Scrappers guess=movie gold= confidence=0.9352518416277512
 Error: Sehnsucht nach Jack guess=movie gold= confidence=0.9999269263086821
 Error: Sei forte, Maestro guess=movie gold= confidence=0.9999893261739207
-Error: Selvsvings Bånd p? livet - livet p? bånd guess=movie gold= confidence=0.9999999999969944
+Error: Selvsvings B錸d p? livet - livet p? b錸d guess=movie gold= confidence=0.9999999999969944
 Error: Seom guess=movie gold= confidence=0.5320341611544929
 Error: Serenades guess=movie gold= confidence=0.7544989757618982
 Error: Seule avec la guerre guess=movie gold= confidence=0.9987661473660767
@@ -488,7 +2307,7 @@ Error: Siostry guess=movie gold= confidence=0.6009785132386478
 Error: Skeletons in the Closet guess=movie gold= confidence=0.999999999735472
 Error: Smoke & Mirrors: The Art and Science of Stunts guess=movie gold= confidence=1.0
 Error: Snapped guess=movie gold= confidence=0.9558924362641279
-Error: Solange es Männer gibt guess=movie gold= confidence=0.9995845513405736
+Error: Solange es M鋘ner gibt guess=movie gold= confidence=0.9995845513405736
 Error: Song of the Sea Otter guess=movie gold= confidence=0.9999999943672151
 Error: Sonntags guess=movie gold= confidence=0.8882509876864024
 Error: South guess=place gold= confidence=0.9693056549571903
@@ -503,7 +2322,7 @@ Error: Starforce guess=place gold= confidence=0.9657712787199227
 Error: Stars Sing The Beatles guess=movie gold= confidence=0.9999999945359512
 Error: Steps to the Stars guess=movie gold= confidence=0.9999999959026766
 Error: Sting: The Brand New Day Tour - Live from the Universal Amphitheatre guess=movie gold= confidence=1.0
-Error: Stjärnfall guess=place gold= confidence=0.6251278308011141
+Error: Stj鋜nfall guess=place gold= confidence=0.6251278308011141
 Error: Stopar guess=movie gold= confidence=0.50397649953545
 Error: Stranger with a Camera guess=movie gold= confidence=0.999999972113621
 Error: Strangers to Themselves guess=movie gold= confidence=0.9998450121293198
@@ -525,13 +2344,13 @@ Error: Take My Life... Please guess=movie gold= confidence=0.9999999124121185
 Error: Tales of an Island guess=movie gold= confidence=0.977271498236186
 Error: Tatort - Chaos guess=movie gold= confidence=0.9999759505148758
 Error: Tatort - Mord am Fluss guess=movie gold= confidence=0.9982044726643075
-Error: Tatort - Tod vor Scharhörn guess=movie gold= confidence=0.9999807630198958
+Error: Tatort - Tod vor Scharh鰎n guess=movie gold= confidence=0.9999807630198958
 Error: Team Spirit guess=movie gold= confidence=0.5323827162387544
 Error: Teens Get Real guess=movie gold= confidence=0.9463555285708424
 Error: Teletubbies: Nursery Rhymes guess=movie gold= confidence=0.9997424781546254
 Error: Tempting Fate guess=movie gold= confidence=0.9816777579895999
 Error: Tenshi no rakuen guess=movie gold= confidence=0.9999894316748019
-Error: Terra Sonâmbula guess=movie gold= confidence=0.7765562745605347
+Error: Terra Son鈓bula guess=movie gold= confidence=0.7765562745605347
 Error: Terry Eichler: Beyond Duc My guess=movie gold= confidence=0.9998438534444178
 Error: That's Life guess=movie gold= confidence=0.9985866044362064
 Error: The American Astronaut guess=movie gold= confidence=0.996567944197154
@@ -590,7 +2409,7 @@ Error: The Real Flying Tigers guess=movie gold= confidence=0.999991906695753
 Error: The Runaway guess=movie gold= confidence=0.9999996046508226
 Error: The Secret guess=movie gold= confidence=0.9999968025102653
 Error: The Sopornos guess=movie gold= confidence=0.999899536008826
-Error: The Strange Case of Señor Computer guess=movie gold= confidence=0.9999973757169345
+Error: The Strange Case of Se駉r Computer guess=movie gold= confidence=0.9999973757169345
 Error: The Substitute: Failure Is Not an Option guess=movie gold= confidence=1.0
 Error: The Summer Intern guess=movie gold= confidence=0.999709108310724
 Error: The Summer of the Kavalcutes guess=movie gold= confidence=0.9999999999988844
@@ -614,7 +2433,7 @@ Error: Tight-Ass Lowriders guess=place gold= confidence=0.5396008424607301
 Error: Time Gentlemen, Please guess=movie gold= confidence=0.9999236523694465
 Error: Time of our Lives guess=movie gold= confidence=0.9999994737114458
 Error: Time to Live guess=movie gold= confidence=0.9999999179448797
-Error: Titkos szeretök guess=movie gold= confidence=0.9977704679954705
+Error: Titkos szeret鰇 guess=movie gold= confidence=0.9977704679954705
 Error: Tmavomoudr? svet guess=movie gold= confidence=0.9965813117033546
 Error: To the End of the Road guess=movie gold= confidence=1.0
 Error: Together guess=place gold= confidence=0.591808969784718
@@ -642,8 +2461,8 @@ Error: Un Colpo al cuore guess=movie gold= confidence=0.868141244521465
 Error: Un enfant, un secret guess=movie gold= confidence=0.9999998628803995
 Error: Un possible amour guess=movie gold= confidence=0.9999946858461061
 Error: Unauthorized Brady Bunch: The Final Days guess=movie gold= confidence=0.9999999999300897
-Error: Une jeune fille ? la fenêtre guess=movie gold= confidence=0.9999999966966655
-Error: Une mère en colère guess=movie gold= confidence=0.999944826069376
+Error: Une jeune fille ? la fen阾re guess=movie gold= confidence=0.9999999966966655
+Error: Une m鑢e en col鑢e guess=movie gold= confidence=0.999944826069376
 Error: Unreal Ads guess=movie gold= confidence=0.8162146963492223
 Error: Urmel 2: Faule Tricks auf hoher See guess=movie gold= confidence=0.9999999935896646
 Error: Uttara guess=movie gold= confidence=0.6709769149176282
@@ -653,7 +2472,7 @@ Error: Vamos Chile guess=company gold= confidence=0.9384126777849794
 Error: Vampires of Sorority Row Part II guess=movie gold= confidence=0.9996321373108709
 Error: Vanishing Point guess=place gold= confidence=0.989685382313326
 Error: Vendetta guess=movie gold= confidence=0.5813857802293289
-Error: Vent de colère guess=movie gold= confidence=0.973907786434623
+Error: Vent de col鑢e guess=movie gold= confidence=0.973907786434623
 Error: Verboden te zuchten guess=movie gold= confidence=0.9999997424844936
 Error: Victor guess=person gold= confidence=0.9330712755239183
 Error: Vies guess=movie gold= confidence=0.7177405346050906
@@ -694,10 +2513,10 @@ Error: Yung wong jik chin guess=movie gold= confidence=0.9994754587377671
 Error: Zebralla guess=place gold= confidence=0.7938226792808608
 Error: Zir-e poost-e shahr guess=movie gold= confidence=0.9983834314302498
 Error: Zwei vom Blitz getroffen guess=movie gold= confidence=0.9998100759176222
-Error: ¡Ja me maaten..! guess=movie gold= confidence=0.9999997031764117
+Error: a me maaten..! guess=movie gold= confidence=0.9999997031764117
 Error: ? ma soeur! guess=movie gold= confidence=0.999999372603671
-Error: Épouse-moi guess=movie gold= confidence=0.8166369985344314
-Error: ìÁÎÄÙÛ ÓÅÒÅÂÒÉÓÔÙ? guess=movie gold= confidence=0.5047539135312098
+Error: 蓀ouse-moi guess=movie gold= confidence=0.8166369985344314
+Error: 炝文氽 优遗乱捎再? guess=movie gold= confidence=0.5047539135312098
 Error: AEGON N.V. guess=company gold= confidence=0.9305416880539138
 Error: ALZA Corporation guess=company gold= confidence=0.9999999985722852
 Error: AMPCO Pittsburgh Corporation guess=company gold= confidence=0.99999995472957
@@ -768,7 +2587,7 @@ Error: CompX International Inc. guess=company gold= confidence=0.999999999999520
 Error: Computer Task Group, Incorporated guess=company gold= confidence=0.9999999999910081
 Error: Consolidated Edison Inc. guess=company gold= confidence=0.9999998771221894
 Error: Cooper Cameron Corporation. guess=company gold= confidence=0.9999999115688073
-Error: Copene-Petroquímica do Nordeste guess=movie gold= confidence=0.9873784489897248
+Error: Copene-Petroqu韒ica do Nordeste guess=movie gold= confidence=0.9873784489897248
 Error: Cornell Companies Inc. guess=company gold= confidence=0.9999999999999716
 Error: Cornerstone Propane Partnership L.P. guess=company gold= confidence=0.999999884974105
 Error: Correctional Properties Trust. guess=company gold= confidence=0.999999993719392
@@ -783,7 +2602,7 @@ Error: Detroit Edison guess=movie gold= confidence=0.8677538548143328
 Error: Developers Diversified Realty Corporation. guess=company gold= confidence=0.9999999999995488
 Error: Devry, Inc. guess=company gold= confidence=0.9999999413960107
 Error: Dillards Cap Tr I guess=company gold= confidence=0.9999998961786593
-Error: Distribución y Servicio (D&S) guess=company gold= confidence=0.8060649058704189
+Error: Distribuci髇 y Servicio (D&S) guess=company gold= confidence=0.8060649058704189
 Error: Dollar Thrifty Automotive Group Inc. guess=company gold= confidence=0.9999999999996376
 Error: Downey Financial Corporation. guess=company gold= confidence=0.9999999999498606
 Error: Dril-Quip, Inc. guess=company gold= confidence=0.9999995841998691
@@ -845,7 +2664,7 @@ Error: Honeywell International, Inc. guess=company gold= confidence=0.9999999664
 Error: Household Cap Tr I guess=company gold= confidence=0.9999987323320992
 Error: IBP Inc. guess=company gold= confidence=0.9999999995776037
 Error: Indiana Energy Inc. guess=company gold= confidence=1.0
-Error: Internacional de Cerámica S.A. guess=company gold= confidence=0.9999992231217154
+Error: Internacional de Cer醡ica S.A. guess=company gold= confidence=0.9999992231217154
 Error: J.P. Morgan Chase & Co. guess=company gold= confidence=0.999999999992017
 Error: Jack in the Box Inc. guess=movie gold= confidence=0.870596846118489
 Error: John Hancock Patriot Global Dividend Fund guess=company gold= confidence=0.9999998902622476
@@ -973,8 +2792,8 @@ Error: Swisscom Ag guess=company gold= confidence=0.665105841401719
 Error: Talbots Inc. guess=company gold= confidence=0.9999999562716805
 Error: Tefron Ltd. guess=company gold= confidence=0.9999670422904551
 Error: Telebras HOLDRs guess=company gold= confidence=0.4365142221205858
-Error: Telefónica del Per? SA guess=company gold= confidence=0.9997405782663713
-Error: Telemig Celular Participações S.A. guess=company gold= confidence=0.9999999999274536
+Error: Telef髇ica del Per? SA guess=company gold= confidence=0.9997405782663713
+Error: Telemig Celular Participa珲es S.A. guess=company gold= confidence=0.9999999999274536
 Error: Templeton Emerging Markets Appreciation Fund, Inc. guess=company gold= confidence=0.9999999999795648
 Error: Tennessee Valley Auth guess=company gold= confidence=0.9642446224501001
 Error: Terra Industries Inc. guess=company gold= confidence=0.9999999999999609
@@ -1003,14 +2822,14 @@ Error: Twin Disc Inc. guess=company gold= confidence=0.9999999979745766
 Error: UAL Corporation. guess=company gold= confidence=0.9999999983302814
 Error: UNOCAL CORP guess=company gold= confidence=0.9998306605435037
 Error: US Airways Group Inc guess=company gold= confidence=0.9999999999999574
-Error: Un Banco Más de Todos guess=company gold= confidence=0.998744909487783
+Error: Un Banco M醩 de Todos guess=company gold= confidence=0.998744909487783
 Error: UniSource Energy Corporation guess=company gold= confidence=0.999999999997808
 Error: Unigraphics Solutions Inc. guess=company gold= confidence=0.9999994006373767
 Error: Unisys Corp guess=company gold= confidence=0.9999996709463383
 Error: United Parcel Service, Inc. guess=company gold= confidence=0.9999999999989342
 Error: United Park City Mines Co.. guess=company gold= confidence=0.9999879418793333
 Error: United Technologies Corporation. guess=company gold= confidence=0.999999999999929
-Error: União de Bancos Brasileiros S.A (Unibanco) guess=company gold= confidence=0.9999967651781911
+Error: Uni鉶 de Bancos Brasileiros S.A (Unibanco) guess=company gold= confidence=0.9999967651781911
 Error: UnumProvident Corporation guess=company gold= confidence=0.999999028254759
 Error: Urstadt Biddle Properties Inc. guess=company gold= confidence=0.9999999999999609
 Error: Usx Marathon Lg-Tm guess=movie gold= confidence=0.867715737902023
@@ -1042,3 +2861,4 @@ Error: Wynns International Inc. guess=company gold= confidence=0.999999999995548
 Error: YPF guess=drug gold= confidence=0.7234770606121731
 Error: iStar Financial Inc. guess=company gold= confidence=0.9999999999996909
 Error: lehman Brothers Holdings Capital. guess=company gold= confidence=0.9175681065680961
+
